@@ -1,6 +1,7 @@
 % Big Round Band: Master list of tunes
 
-%%partsfont * * box
+%%partsfont * *
+%%partsbox 1
 %%partsspace -5
 %%leftmargin 1.50cm
 %%staffwidth 18.00cm
