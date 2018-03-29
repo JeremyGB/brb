@@ -43,12 +43,12 @@ P:B
 "D"[df]>[eg] (3[fa][eg][df] "G"[d2g2]:|
 T:Bass line
 P:A
-D2-|"G".G2 .B2 "C"c2>>B2|"C".c2 .e2 "D"d2>>d2|\
+(D2|"G".G2) .B2 "C"c2>>B2|"C".c2 .e2 "D"d2>>d2|\
 "G".G2 z>A "Em".B2 z>A|"G".G2 .B2 "D"d>c B>A|
 |"G".G2 .B2 "C"c2>>B2|"C".c2 .e2 "D"d2>>d2|\
 "G".G2 z>A "Em".B2 z>A|"G".G2 "D".F2 "G".G2:|
 P:B
-|:D2-|"G".G2 .F2 "Em"E2>>D2|"C".C2 z>C "D"D>D E>F|\
+|:(D2|"G".G2) .F2 "Em"E2>>D2|"C".C2 z>C "D"D>D E>F|\
 "G".G2 .F2 "Em"E2>>D2|"Em".E2 "G".G2 "Am"A2>>G2|
 "Am".A2 "G/b".B2 "C"c2>>c2|"Em".B2 z>G "D".A2 z>F|\
 "G".G2 z>B "C".c2 z>A|"D"d>c B>A "G"G2:|
