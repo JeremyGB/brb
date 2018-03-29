@@ -1,0 +1,54 @@
+% Big Round Band: Set S5
+
+%%partsfont * * box
+%%partsspace -5
+%%leftmargin 1.50cm
+%%staffwidth 18.00cm
+%%topspace 0cm
+%%botmargin 0.40cm
+
+%%textfont * 20
+%%text S5 (1.0) p1
+%%textfont * 12
+
+
+
+X:1040
+T:Black Nag
+M:6/8
+L:1/8
+K:F
+P:A
+A,| "Dm"D2D "C"E2E | "Bb"F2F "Am"GFG| "Dm"AGF "Am"EDE| "Dm"D3-D2 :|
+P:B
+|:D |"Am"ECA, ECA,| ECA, ECA,|"Dm"AFD AFD|AFD AFD|
+"Am"ECA, ECA,|ECA, EFG|"Dm"AGF "Am"EDE|"Dm"D3-D2 :|
+T:Up an octave
+P:A
+A| "Dm"d2d "C"e2e | "Bb"f2f "Am"gfg| "Dm"agf "Am"ede| "Dm"d3-d2 :|
+P:B
+|:d |"Am"ecA ecA| ecA ecA|"Dm"afd afd|afd afd|
+"Am"ecA ecA|ecA efg|"Dm"agf "Am"ede|"Dm"d3-d2 :|
+T:Harmony 1
+P:A
+A|F2A c2c|d2d e2e|f2f g2g|fge d2 :|
+P:B
+|:d |A2c A2c|A2c c2e|d2f d2f|d2f d2d|
+A2c A2c|A2c c2e|f2f g2g|fge d2 :|
+%%newpage
+%%textfont * 20
+%%text S5 (1.0) p2
+%%textfont * 12
+T:Harmony 2
+P:A
+z|A2A G2G|F2F E2E|F2F EFE|D3-D2:|
+P:B
+D|E2E z2E|E2E z2E|F2F z2F|F2F z2F|G2G z2G|G2G z2G|A2A z2A|A2A z2A|
+c2c z2c|c2c z2c|d2d z2d|d2d z2d|e2e z2e|e2e z2e|fgf efe|d3-d2||
+T:Silly cords and harmony
+P:B
+D|"Am7"E2E z2E|E2E z2E|"Bb maj7"F2F z2F|F2F z2F|
+"Am7"E2E z2E|E2E z2E|1 "Bb maj7"F2F z2F|F2F z2F:|2 "Bb maj7"F2F2F2|"C"G6||
+
+
+

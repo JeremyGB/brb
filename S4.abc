@@ -1,0 +1,40 @@
+% Big Round Band: Set S4
+
+%%partsfont * * box
+%%partsspace -5
+%%leftmargin 1.50cm
+%%staffwidth 18.00cm
+%%topspace 0cm
+%%botmargin 0.40cm
+
+%%textfont * 20
+%%text S4 (1.0)
+%%textfont * 12
+
+
+
+X:1030
+T:La Bourrée à Huit
+B:Massif Central Tune Book no.2
+M:3/8
+L:1/8
+K:G
+P:A
+"G"d2^c|d2A/B/|"D"cBA|"G"BGG|d2^c|d2A/B/|"D"cBA|1"G"G3:|2"G"G2||
+P:B
+|:D|"G"GFG|D2G|"D"F/G/Ad|"G"BGG|GFG|D2G|"D"F/G/AF|1"G"G2:|2"G"G3|]
+
+X:1031
+T:Tiennet
+B:Massif Central Tune Book no.2
+C:Patrick Bouffard
+M:3/8
+L:1/8
+K:Gm
+P:A
+"Gm"BA/B/c|BA/B/c/A/|dcB|"Dm"A/B/A/G/F|"Gm"BA/B/c|BA/B/c/A/|dcB|"Dm"A3:|
+P:B
+|:"Gm"BA/B/c|GF/G/A|"Dm"DFG|"Gm"BAG|BA/B/c|GF/G/A|"Dm"DF/G/A/F/|"Gm"G3:|
+
+
+

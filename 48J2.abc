@@ -1,0 +1,46 @@
+% Big Round Band: Set 48J2
+
+%%partsfont * * box
+%%partsspace -5
+%%leftmargin 1.50cm
+%%staffwidth 18.00cm
+%%topspace 0cm
+%%botmargin 0.40cm
+
+%%textfont * 20
+%%text 48J2 (2.0)
+%%textfont * 12
+
+
+
+X:210
+T:When Daylight Shines
+M:6/8
+K:G
+P:A
+d|"G"gfe dcB|"D7"d2c A2B|"Am"cBc "D7"e2d|"G"B3 GBd|
+"G"gfe dcB|"D7"d2c A2B|"Am"cBc "D7"e2F|"G"G3-G2:|
+P:B
+|:D|"G"G2A B2c|d3 B2d|"C"e2d "D7"c2d|"G"B3 G2D|
+"G"G2A B2c|d3 g2g|"D7"fed cBA|"G"G3-G2:|
+P:C
+|:d|"G"dcB BAG|"D7"F2A e2c|"G"ded "D7"c2d|"G"B3 GBd|
+"G"dcB BAG|"D7"F2A e2c|"Em"d2B "D7"dcA|"G"G3-G2:|
+
+X:211
+T:Dingle Regatta
+M:6/8
+K:G
+P:A
+"G"d^cd e2d|"G"BAB d2B|"D"A2A AGA|"G"B2A G2d|
+"G"d^cd e2d|BAB d2B|"D"A2A ABA|"G"G3 -G3:|
+P:B
+|:"D"d3 def|"G"g3 gfg|"D"a2a aga|"G"b2a g2e|
+"D"d3 def|"G"g3 gfg|"D"a2g f2e|"D"def "G"g3:|
+P:C
+|:"G"g3 d3|"G"BdB G3|"D"FGA DEF|"G"G2B def|
+"G"g3 d3|"G"BdB G3|"D"FGA DEF|"G"G3 -G3:|
+%%text Alt. D drone during bars 1-7 of B music 
+
+
+

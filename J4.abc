@@ -1,0 +1,37 @@
+% Big Round Band: Set J4
+
+%%partsfont * * box
+%%partsspace -5
+%%leftmargin 1.50cm
+%%staffwidth 18.00cm
+%%topspace 0cm
+%%botmargin 0.40cm
+
+%%textfont * 20
+%%text J4 (1.0)
+%%textfont * 12
+
+
+
+X:130
+T:Kitty McGee
+M:6/8
+L:1/8
+K:D
+P:A
+A|"D"d2d AFA|"D"d3 "A7"efg|"D"f2d "E7"e2d|"A"cec "A7"ABc|"D"d2d AFA|"D"d3 "A7"efg|"D"f2d "A7"e2c|"D"ddd d2:|
+P:B
+|:A|"D"d2f agf|"Em"e2f "A7"g3|"D"f2d "E7"e2d|"A"cAA "A7"A3|"D"aaa "G"g2f|"Em"e2f "A7"g3|"D"f2d "A7"e2c|"D"ddd d2:|
+
+X:131
+T:Major Mackies Jig
+M:6/8
+L:1/8
+K:D
+P:A
+d|"D"ABc dcd|"G6"B2e e2d|"A7"c2a a^ga|"D"f2d d2d|"D"ABc dcd|"G6"B2e e2d|"A7"c2a gfe|"D"d3-d2:|
+P:B
+|:e|"D"f2f def|"Em"g3 g2f|"A7"e2e cde|"D"f3 f2e|"Bm"ddd def|"Em"g2B e2d|"A7"c2a gfe|"D"d3-d2:|
+
+
+

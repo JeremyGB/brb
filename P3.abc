@@ -1,0 +1,42 @@
+% Big Round Band: Set P3
+
+%%partsfont * * box
+%%partsspace -5
+%%leftmargin 1.50cm
+%%staffwidth 18.00cm
+%%topspace 0cm
+%%botmargin 0.40cm
+
+%%textfont * 20
+%%text P3 (1.0)
+%%textfont * 12
+
+
+
+X:420
+T:Jenny Lind
+M:2/2
+L:1/8
+K:D
+P:A
+"D"F2A2 "G"G2B2|"D"A2f2 fef2|"A7"G2e2 ede2|"D"F2d2 dcd2|\
+"D"F2A2 "G"G2B2|"D"A2f2 fef2|"Em"g2e2 "A7"egfe|"D"d2f2 d4:|
+P:B
+K:G
+|:"C"g2f2 egfe|"G"d2B2 BAB2|"D7"c2A2 ABA2|"G"B2G2 GAG2|\
+"C"g2f2 egfe|"G"d2B2 BAB2|"D7"c2A2 AcBA|"G"G2B2 G4:|
+
+X:421
+T:Grandfather's Polka
+L:1/8
+M:2/2
+K:D
+P:A
+"D"F2A2 "G"B2c2|"D"dcde f2a2|"Em"g2f2 e2d2|"A7"c2B2 A2G2|\
+"D"F2A2 "G"B2c2|"D"dcde f2a2|"Em"g2f2 "A7"e2Bc|"D"d2f2 d4:|
+P:B
+|:"A"e2AA e2AA|g2f2 e2AA|g2f2 e2d2|"A7"c2B2 A2G2|\
+"D"F2A2 "G"B2c2|"D"dcde f2a2|"Em"g2f2 "A7"e2Bc|"D"d2f2 d4:|
+
+
+

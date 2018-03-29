@@ -1,0 +1,68 @@
+% Big Round Band: Set J1
+
+%%partsfont * * box
+%%partsspace -5
+%%leftmargin 1.50cm
+%%staffwidth 18.00cm
+%%topspace 0cm
+%%botmargin 0.40cm
+
+%%textfont * 20
+%%text J1 (1.0) p1
+%%textfont * 12
+
+
+
+X:100
+T:Mange Tout
+T:Tune
+C:Andrew Swaine
+M:6/8
+L:1/8
+K:Em
+P:A
+"Em"E2B B2A|"C"G2F EFG|"D"F2A A2G|"Bm"F2E DEF|\
+"Em"E2B B2A|"C"G2F EFG|"D"F2G- GA2|"1:B7 2:Em"BGF E2D:|
+P:B
+|:"C"E2E EFG|"D"F2F FGA|"G"B2B BAG|"G/F#"A2A AGF|\
+"C"E2E EFG|"D"F2F FGA|"G6"B2A- AG2|"1:B7 2:D/F#"A2G- GF2:|
+T:Harmony 1
+P:A
+"Em"e2e efg|"C"c2c cde|"D"d2d def|"Bm"BcB Bcd|
+"Em"e2e efg|"C"c2c cde|1"D"d2d- dd2|"B"^d2d- dd2:|2"D"ddd g2f|"Em"e2d e2d||
+P:B
+|:"C"c2c cde|"D"ded d2A|"G"B2B BAG|"G/F#"GBB BAB|\
+"C"c2c cde|"D"ded d2A|"G6"ABB ABB|"1:B7 2:D/F#"BGF E3:|
+T:Harmony 2
+P:A
+"Em"E2e z2c-|"C"c3 z3|"D"A2d z2B-|"Bm"B3z3|\
+"Em"E2e z2c-|"C"c3 z3|1"D"d2c B2A|"B7"B2A G2F:|2"D"ABB ABB|"Em"BGF E3||
+P:B
+|:"C"C3 G3|"D"F3 D3|"G"B,3 B,3|"G/F#"D3 B,3|\
+"C"C3 G3|"D"F3 D3|1"G6"E3 D3|"B7"C3 B,3:|2"G6"E3 F3|"D/F#"G3 A3|]
+
+%%newpage
+%%textfont * 20
+%%text J1 (1.0) p2
+%%textfont * 12
+
+X:101
+T:Blowzabella: New Jig 2
+T:Tune
+M:6/8
+L:1/8
+K:Em
+P:A
+"Em"B2E B2E|B^cd c2B|ede B2B|B^cd c2B|B2E B2E|B^cd c2B|ede B2B|B^cd c2B|
+BAF BAF|B^cd c2B|ede B2B|B^cd c2B|BAF BAF|B^cd c2B|ede B2B|B^cd c2B||
+P:B
+"Em"B2B- BAG|"C"A2A- AGF|"G"G2G GFE|"D"FGF F2E|\
+"Em"B2B- BAG|"C"A2A- AGF|"G"G2G GFE|"D"FGF "Em"E3|
+"Am"A2A AGF|"G"G2G GFE|"Bm"F2F F2B,|B,^CD C2B,|\
+"Am"A2A AGF|"G"G2G GFE|"Bm"F2F FGA|BAG "Em"E3|]
+T:Harmony
+P:A
+G2E G2E|GAB G2E|GFG EFG|B2A GFE|G2E G2E|GAB G2E|GFG EFG|B2A GFE:|
+P:B
+e2e z2B|c2c z2e|d2d z2g|f2e def|e2e z2B|c2c z2e|d2d z2g|fed e2z|
+e2e2e2|g2g2g2|f6-|f6|e2e2e2|g2g2g2|f6-|f3e3|]

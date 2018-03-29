@@ -1,0 +1,57 @@
+% Big Round Band: Set S7
+
+%%partsfont * * box
+%%partsspace -5
+%%leftmargin 1.50cm
+%%staffwidth 18.00cm
+%%topspace 0cm
+%%botmargin 0.40cm
+
+%%textfont * 20
+%%text S7 (1.0)
+%%textfont * 12
+
+
+
+X:1060
+T:Cherkessia Kfula - major
+M:2/4
+L:1/8
+K:G
+T:Tune / Harmony
+P:A
+"G"[Bd][B2d2][Ac]|[GB][FA][D2G2]|"C"[Gc][G2c2][Bd]|[c2e2][c2e2]|\
+"G"[Bd][B2d2][Ac]|[1"G"[G2B2][F2A2]|"D"[A4d4]|"D7"[A4d4]:|\
+[2"D"[G2B2][F2A2]|"G"[G4D4]|"G7"[G4D4]||
+P:B
+|:"C"[ce][c2e2][Bd]|[Ac][Bd][c2e2]|"G"[Bd][B2d2][Ac]|[GB][Ac][B2d2]|\
+"D"[Ac][A2c2][GB]|[1"D"[F2A2][GB][Ac]|"G"[B4d4]|"G7"[B4d4]:|
+[2"D7"[F2A2][GB][FA]|"G"[D4G4]|[D4G4]|]
+
+X:337
+T:Cherkessia Kfula - minor
+M:2/4
+L:1/8
+K:Gm
+T:Tune / Harmony 1
+P:A
+"Gm"[Bd][B2d2][Ac]|[GB][^FA][D2G2]|"Cm"[Gc][G2c2][Bd]|[c2e2][c2e2]|\
+"Gm"[Bd][B2d2][Ac]|[1"Gm"[G2B2][^F2A2]|"D7"[A4d4]|[A4d4]:|\
+[2"D7"[G2B2][^F2A2]|"Gm"[G4D4]|"G7"[G4D4]||
+P:B
+|:"Cm"[ce][c2e2][Bd]|[Ac][Bd][c2e2]|"Gm"[Bd][B2d2][Ac]|[GB][Ac][B2d2]|\
+"D7"[Ac][A2c2][GB]|[1"D7"[^F2A2][GB][Ac]|"G"[=B4d4]|"G7"[=B4d4]:|
+[2"D7"[^F2A2][GB][FA]|"Gm"[D4G4]|[D4G4]|]
+T:Harmony 2
+P:A
+"Gm"gg2f|e2d2|"Cm"cc2d|e2e2|"Gm"dg2a|b2ag|"D7"a4|a4|
+"Gm"bb2a|g2d2|"Cm"cc2d|e2e2|"Gm"gd2e|"D7"dc BA|"Gm"G4|"G7"G4||
+P:B
+|:"Cm"ee2d|cde2|"Gm"dg2a|b2b2|"D7"aa2g|^f2ga|[1"G"=b4|"G7"=b4:|\
+[2"Gm"g4|g4|]
+T:Harmony 3
+P:B
+|:"Cm".[G2c2e2]z2|z2"Cm".[G2c2e2]|z4|"Gm".[G2B2d2]z2|\
+z2"D7".[F2A2c2d2]|z4|[1"G"[G4=B4d4]|"G7/b"[G4=B4d4]:|\
+[2"Gm"[G4B4d4]|"Gm"[G4B4d4]:|\
+

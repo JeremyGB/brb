@@ -1,0 +1,40 @@
+% Big Round Band: Set R3
+
+%%partsfont * * box
+%%partsspace -5
+%%leftmargin 1.50cm
+%%staffwidth 18.00cm
+%%topspace 0cm
+%%botmargin 0.40cm
+
+%%textfont * 20
+%%text R3 (1.1)
+%%textfont * 12
+
+X:620
+T:Over the Waterfall
+M:C|
+L:1/4
+K:D
+P:A
+d/e/|"D"fa "Em"g/f/e|"G"dB "A"Ad/e/|"D"fa g/f/e|f3d/e/|
+"D"fa "Em"g/f/e|"G"dB "A"AA/B/|"C"=cc BG|"D"A2 A:|
+P:B
+|:F/G/|"D"AA "G"BB|"D"A/B/A/G/ FF/G/|"D"Ad "A"ce|"D"d2 dF/G/|
+"D"AA "G"BB|"D"A/B/A/G/ FF/G/|"D"AD "A"FE|"D"D2 D:|
+
+X:621
+T:Chilly Winds
+M:C|
+L:1/4
+K:Dm
+P:A
+A,|"Dm"DD FF/G/|"F"A/G/F/G/ A/G/F/G/|"Dm"DD FF/G/|"Am"A>c AA,|
+"Dm"DD FF/G/|"F"A/G/F/G/ A/G/F/G/|"Dm"A/G/F "Am"DC|"Dm"D2 D:|
+P:B
+|:d|"Dm"dc Ac|"Am"A/G/F "Dm"Dd|"Dm"dc Ac|"Am"A>c Ad|
+"Dm"dc Ac|"Am"A/G/F "Dm"DA|"Dm"A/G/F "Am"DC|"Dm"D2 D:|
+
+
+
+

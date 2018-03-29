@@ -1,0 +1,75 @@
+% Big Round Band: Set H1
+
+%%pageheight 29.7cm
+%%pagewidth 21.0cm
+
+%%partsfont * * box
+%%partsspace -5
+%%leftmargin 1.50cm
+%%staffwidth 18.00cm
+%%topspace 0cm
+%%botmargin 0.40cm
+%%topmargin 0cm
+
+%%textfont * 20
+%%text H1 (1.0) p1
+%%textfont * 12
+
+
+
+X:800
+T:Phillibelula all the way
+M:2/2
+L:1/8
+K:D
+P:A
+f>e|"D"d>cd>B A2G>F|"Em"E>EF>G "A"A2B>c|"D"d>BA>B d>de>c|"D"d6:|
+P:B
+d>e|"D"f2f2 "Bm"f2g>f|"Em"g>fe2 "A"e4|"Bm"d2d2 "E7"d2e>d|"A"c>BA2 "A7"A2B>c|
+"D"(3ded (3cBA "G"B>cd2|"D"(3ded (3cBA "G"B>c"D"d>f|"Em"e2(3efg "A7"a2(3ABc|"D"d6|]
+
+X:801
+T:Paddy McGinty's Goat
+M:2/2
+L:1/8
+K:G
+P:A
+d>c|"G"B2B>A G2G>A|"G"B>AB>cd2d>B|"Am"c>dc>B A>AA>B|"Am"c>Bc>d "D7"e2d>c|
+"G"B2B>A G2G>A|"G"B>AB>cd2d>B|"Am"c>cB>c "D"A>Ad>c|"G"(3BGG "C"G>G "G"G2||
+P:B
+B>d|"G"g2g>g d2d>d|"G"g2g>g d2d>e|"D"f>gf>e d>^cd>e|"A7"f>gf>e "D"d2d2|
+"C"e>eg>e "G"d>dg>d|"D7"c>Bc>d "G"B3B|"Am"c>cB>c "D7"A>Ad>c|"G"(3BGG "C"G>G "G"G2|]
+
+
+
+%%newpage
+%%textfont * 20
+%%text H1 (1.0) p2
+%%textfont * 12
+
+
+X:802
+T:Hestleyside Ride
+M:2/2
+L:1/8
+K:A
+P:A
+A>B|"A"c2e>c "E7"B>AB>c|"A"A>Bc>de2f>g|"D"a>ga>f "A"e>cB>A|"Bm"f2B2 "E7"B2A>B|
+"A"c2e>c "E7"B>AB>c|"F#m"A>Bc>d "C#m"e2f>g|"D"a>ga>f "E7"e>cA>B|"A"c2A2A2||
+P:B
+c>e|"D"f>ef>g a>ga>f|"A"e>cA>c e2c>e|"D"f>ef>g a>ga>f|"Bm"e>cA>c "E7"B2A>B|
+"A"c2e>c "E7"B>AB>c|"F#m"A>Bc>d "C#m"e2f>g|"D"a>ga>f "E"e>cA>B|"A"c2A2A2|]
+T:Harmony
+P:A
+(3efg|"A"a2e>a "E7"f>e d>f|"A"e>dc>B A2B>c|\
+"D"d>c (3Bcd "A"c>B (3ABc|"Bm"B2^d2 "E7"(3e2f2g2|
+"A"a2e>a "E7"f>e d>f|"F#m"e>fe>d "C#m"c2B>c|\
+"D"d>ed>c "E7"B>AG>F|"A"E2A2 A2||
+P:B
+B>c|"D"d>cd>e f>ef>d|"A"c>AE>A c2B>c|\
+"D"d>cd>e f2a>a|"Bm"g>ag>f "E7"e2 (3efg|
+"A"a2e>a "E7"f>e d>f|"F#m"e>fe>d "C#m"c2B>c|\
+"D"d>ed>c "E7"B>AG>F|"A"E2A2 A2||
+
+
+

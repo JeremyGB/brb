@@ -1,0 +1,72 @@
+% Big Round Band: Set P1
+
+%%partsfont * * box
+%%partsspace -5
+%%leftmargin 1.50cm
+%%staffwidth 18.00cm
+%%topspace 0cm
+%%botmargin 0.40cm
+
+%%textfont * 20
+%%text P1 (1.0) p1
+%%textfont * 12
+
+
+
+X:400
+T:'Twas Within a Mile
+T:Tune
+M:2/2
+L:1/8
+K:D
+P:A
+fg|"D"a2af d2fd|"G"Bdec "A7"A2FG|"D"A3B ABde|"A"f2e2 "A7"e2fg|
+"D"a2af d2fd|"G"Bdec "A7"A2FG|"D"A3B ABde|"A7"f2e2 "D"d2:|
+P:B
+|:de|"D"f4- f2ef|"G"g4- g2fg|"D/f#"a2a2 "G"gage|"A"f2e2 "A7"e2fg|
+"D"a2af d2fd|"G"Bdec "A7"A2FG|"Bm7"A3B "A"ABde|"G"f2"A7"e2 "D"d2:|
+T:Harmony
+P:A
+z2|"D"z2AA z2dd|"G"zccA "A7"B2AG|"D"z2AA z2dd|"A"zBB=c "A7"^c2B2|
+"D"z2AA z2dd|"G"zccA "A7"B2AG|"D"z2AA z2dd|"A7"cABc "D".dz:|
+P:B
+|:z2|"D"zddd .dzz2|"G"zeee .ezz2|"D/f#"zdde "G"f2ef|"A"gfed "A7"A2GA|
+"D"z2AA z2dd|"G"zccA "A7"B2AG|"Bm7"z2AA "A"z2dd|"G"cA"A7"Bc "D".dz:|
+
+
+
+%%newpage
+%%textfont * 20
+%%text P1 (1.0) p2
+%%textfont * 12
+
+
+X:401
+T:The Steamboat
+T:Tune
+M:2/2
+L:1/8
+K:G
+P:A
+"G"g2gB d2d2|B2dB G2GA|B2BB B2B2|"C"ddBc "D"A4|
+"G"g2gB d2d2|B2dB G2GA|"Em7"B2Bc "D"d2g2|"C"ec"D7"AF "G"G4:|
+P:B
+|:"G"G2Bc ddBG|"D"FGAB cBA2|"G"GABc defg|"C"agfe "D7"dcBA|
+"G"G2Bc ddBG|"D"FGAB cBA2|"Em7"GABc "D"defg|"C"ec"D7"AF "G"G4:|
+T:Harmony
+P:A
+"G"B2BA GFGA|BcBA G4|zccB A2GG|"C"FGFE "D"D4|
+"G"B2BA GFGA|BcBA G4|"Em7"zccB "D"A2GG|"C"FD"D7"EF "G"G4:|
+P:B
+|:"G"G2GA BBBG|"D"FGFE DDFD|"G"zDGA BBBB|"C"cBAG "D7"(A2.d2)|
+"G"G2GA BBBG|"D"FGFE DDFD|"Em7"zDGA "D"B2BB|"C"cB"D7"AF "G"G4:|
+T:Harmony
+L:1/4
+K:G
+P:A
+G3A|B3c|d4|cB AB/2A/2|G3A|B3c|dc BA/2B/2|cB AB/2A/2:|
+P:B
+|:G3 F/2E/2|D3C|B,>C D2|CD/2E/2 DE/2F/2|G3 F2/E/2|D3C|B,>C D>D|C/2B,/2A,/2B,/2 G,2:|
+
+
+

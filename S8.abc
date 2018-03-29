@@ -1,0 +1,35 @@
+% Big Round Band: Set S8
+
+%%partsfont * * box
+%%partsspace -5
+%%leftmargin 1.50cm
+%%staffwidth 18.00cm
+%%topspace 0cm
+%%botmargin 0.40cm
+
+%%textfont * 20
+%%text S8 (2.0)
+%%textfont * 12
+
+X:1070
+T:Childgrove
+T:Tune
+M:2/2
+L:1/4
+B:The Round Band Book of Playford
+K:Em
+B2 | "Em"Be ef | g2 fe | "Am"ag fe | "Bm"f>e d/c/B | \
+"Em"Be ef | g2 fb | "Am"a>g "B7"f/g/f/e/ | "Em" e3 :|
+|:g/a/ | "G"bg gb | "D"af fa | "Em"ge e/f/g/e/ | "Bm"f B2 g/a/ | \
+"G"bg gb | "Am"a>g f/g/a/f/ | "Em" gf/e/ "B7"fe/^d/ | "Em"e3 :|
+T:Harmony 1
+P:A 
+B|"Em"BBzB|BBzB|"Am"cczc|"Bm"ddzd|"Em"BBzB|G3B|"Am"c2"B7"d2|e3:|
+P:B
+|:"G"[D4G4]|"D"[D4A4]|"Em"[E4B4]|"Bm"[F4B4]|\
+"G"[G4B4]|"Am"[E4A4]|"Em"[E2G2]"B7"[^D2B2]|"Em"[E4B4]:|
+T:Harmony 2
+P:A
+B|BG GF|E2 FG|AG Ac|B2 ^cd|eB BA|G2 AB|cB/A/ GF|E3:|
+P:B
+|:G|Bd zd|Ac zc|BA Be|^d3 c|Bd zd|Ac zc|B/A/G AF|E3:|

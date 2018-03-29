@@ -1,0 +1,71 @@
+% Big Round Band: Set J3
+
+%%partsfont * * box
+%%partsspace -5
+%%leftmargin 1.50cm
+%%staffwidth 18.00cm
+%%topspace 0cm
+%%botmargin 0.40cm
+
+%%textfont * 20
+%%text J3 (1.0) p1
+%%textfont * 12
+
+
+
+X:120
+T:Marion's Ramble
+T:Tune
+M:6/8
+L:1/8
+K:A
+P:A
+"A"Ace aec|"D"def "A"ecA|"A"Ace "F#m"aec|"Bm"dec "E"B2e|\
+"A"Ace aec|"D"def "A"ecA|"A"aaa aec|"E"dcB "A"A3:|
+P:B
+|:"E"BBB B2c|"E"dcB "A"cBA|"E"BBB B2c|"E"dcB "A"c2A|\
+"E"BBB B2c|"E"dcB "A"cBA|"A"aaa aec|"E"dcB "A"A3:|
+T:Harmony
+P:A
+"A"A2B cBA|"D"d2B "A"c2B|"A"A2B "F#m"cBA|"Bm"G2A "E"BGE|
+"A"A2B cBA|"D"d2B "A"c2B|"A"AAA ABc|1 "E"BAG "A"A3:|2 "E"BAG "A"AGF||
+P:B
+|:"E"EEE Ez2|"E"z3 "A"z3|"E"EEE Ez2|"E"z3 "A"z3|\
+"E"EEE Ez2|"E"z3 "A"z3|"E"AAA ABc|1 "E"BAG "A"AGF:|2 "E"BAG "A"A3||
+
+
+
+%%newpage
+%%textfont * 20
+%%text J3 (1.0) p2
+%%textfont * 12
+
+
+X:121
+T:Stool of Repentence
+M:6/8
+L:1/8
+K:A
+P:A
+"A"a2e c2e|agf edc|"D"aff f2e|"E7"fag f2e|\
+"A"a2e c2e|agf edc|"D"def efg|"E7"aec B2A:|
+P:B
+|:"A"cAA eAA|cAc edc|"D"dBB fBB|"E7"dBd fed|\
+"A"cAA eAA|agf edc|"D"def efg|"E7"aec B2A:|
+T:Harmony 1
+P:A
+"A"a3 e3|c2d e3|"D"f3 d3|"E7"B2c d3|"A"a3 e3|c2d e3|"D"f2e d2c|B2A e3:|
+P:B
+|:"A"c3 e3|c2d e3|"D"d3 f3|"E7"B2c d3|"A"c3 e3|c2d e3|"D"d3 B3|"E7"B2A e3:|
+T:Harmony 2
+P:A
+"A"[c2a2][ca] z3|z6|"D"[d2a2][da] z3|"E7"[e2g2][eg] z3|\
+"A"[c2a2][ca] z3|z6|"D"[d2a2][da] z3|"E7"[e2g2][eg] z3:|
+P:B
+|:"A"[A2c2][Ac]- [A2c2][Ac]|[A2c2][Ac]- [A2c2][Ac]|\
+"D"[A2d2][Ad]- [A2d2][Ad]|"E7"[G2B2][GB]- [G2B2][GB]|\
+"A"[A2c2][Ac]- [A2c2][Ac]|[A2c2][Ac]- [A2c2][Ac]|\
+"D"[A2d2][Ad]- [A2d2][Ad]|"E7"[G2B2][GB]- [G2B2][GB]:|
+
+
+

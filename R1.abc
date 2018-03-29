@@ -1,0 +1,37 @@
+% Big Round Band: Set R1
+
+%%partsfont * * box
+%%partsspace -5
+%%leftmargin 1.50cm
+%%staffwidth 18.00cm
+%%topspace 0cm
+%%botmargin 0.40cm
+
+%%textfont * 20
+%%text R1 (2.1)
+%%textfont * 12
+
+X:600
+T:Chinese Breakdown
+M:2/4
+L:1/8
+K:D
+P:A
+A|"D"dd BA|FF2A|dd BA|"A"c3A|cc BA|cc2B|"A7"A>A BA|F3A|
+"D"dd BA|FF2E|"D7"D>D EF|"G"G3d|"Em"ee2d|"A"cc2B|"A7"A>A Bc|"D"d3||
+P:B
+e|"D"fa/f/ ed|ff3|fa/f/ ed|"A"c3e|aa2e|"A7"gg2e|c>ccB|A3d|
+"D"fa/f/ ed|ff2e|"D7"d>d c=c|"G"B3d|"Em"ee2d|"A"cc2B|"A7"A>A Bc|"D"d3||
+
+X:601
+T:Old Joe Clark
+M:2/4
+L:1/8
+K:A mix
+P:A
+"A"ef gf|ed cA|ef gf|"E"e3 e|"A"ef gf|ed cA|Ac "G"BB|"A"A4:|
+P:B
+|:"A"A2 A2|ed c2|AA cA|"E"B4|"A"A2 A2|ed c2|Ac "G"BB|"A"A4:|
+
+
+

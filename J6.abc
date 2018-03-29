@@ -1,0 +1,41 @@
+% Big Round Band: Set J6
+
+%%partsfont * * box
+%%partsspace -5
+%%leftmargin 1.50cm
+%%staffwidth 18.00cm
+%%topspace 0cm
+%%botmargin 0.40cm
+
+%%textfont * 20
+%%text J6 (1.0)
+%%textfont * 12
+
+
+
+X:150
+T:Would You Have a Young Virgin?
+M:6/8
+L:1/8
+K:D
+P:A
+F2G|"D"ABA AFA|d2A AFG|"D"ABA AFA|"A"e2A AFG|
+"D"ABA AFB|d2d "A"e2e|"D"fed "A"edc|"D"d3:|
+P:B
+|:d2e|"D"fed fed|"A"e2A A3|"D"fed fed|"A7"g2e e3|
+"D"fed fed|fef "G"gfe|"D"fed "A"edc|"D"d3:|
+
+X:151
+T:Mucking o' Geordie's Byre
+M:6/8
+L:1/8
+K:D
+P:A
+F2G|"D"ABA AFA|"D"d2e f2a|"G"g2e "D"f2d|"Em"e2d "A7"Bcd|
+"D"ABA AFA|"D"d2e "G"f2g|"D"afd "A7"efe|"D"d3:|
+P:B
+|:e2f|"G"g2g gag|"D".fz2 f2d|"Em"e2e ede|"A"fed "A7"Bcd|
+"D"ABA AFA|"D"d2e "G"f2g|"D"afd "A7"efe|"D"d3:|
+
+
+

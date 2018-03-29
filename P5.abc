@@ -1,0 +1,42 @@
+% Big Round Band: Set P5
+
+%%partsfont * * box
+%%partsspace -5
+%%leftmargin 1.50cm
+%%staffwidth 18.00cm
+%%topspace 0cm
+%%botmargin 0.40cm
+
+%%textfont * 20
+%%text P5 (1.0)
+%%textfont * 12
+
+
+
+X:440
+T:Double Lead Through
+L:1/8
+M:2/2
+K:G
+P:A
+"G"g2d2 "D"c2A2|"G"G2G2 GABG|"C"E2E2 "D7"F2D2|"G"G8:|
+P:B
+|:"D"A3d ^c2d2|A3d ^c2d2|1"D"A3d "A"e2A2|"D"f8:|2"A7"A2g2 f2e2|"D7"d2=c2 B2A2||
+P:C
+|:"G"G2G2 GABG|"D"A2A2 ABcA|"G"Bcd2 "C"cde2|"D"e2d2 d2ef|
+"Em"g2g2 "C"gfe2|"G"d2d2 dcB2|"C"ABc2 "G"Bcd2|1"C"egfe "D7"dcBA:|2"D7"e2f2 "G"g4|]
+
+X:441
+T:Winster Galop
+L:1/8
+M:2/2
+K:G
+P:A
+"G"G2BB G2B2|"G"G2B2 d4|"D"A2cc B2A2|"G"G2B2 d4|
+"C"c2e2 f2e2|"G"d2B2 d4|"D7"A3c B2A2|"G"G4 G4:| 
+P:B
+|:"G"g2f2 e2d2|g2f2 e2d2|"G"g2ff "C"e2d2|"D"c2B2 A4|
+"D"f2e2 d4|f2e2 d4|"D7"d4 A3c|"G"B2G2 G4:|
+
+
+

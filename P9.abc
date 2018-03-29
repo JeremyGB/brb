@@ -1,0 +1,49 @@
+% Big Round Band: Set P9
+
+%%partsfont * * box
+%%partsspace -5
+%%leftmargin 1.50cm
+%%staffwidth 18.00cm
+%%topspace 0cm
+%%botmargin 0.40cm
+
+%%textfont * 20
+%%text P9 (1.0)
+%%textfont * 12
+
+
+
+X:480
+T:The Indian Queen
+M:4/4
+L:1/8
+B:The Round Band Book of Playford
+K:D
+P:A
+fg | "D"a2f2 d2f2 | "A"e4 A4 | "D"F2A2 A2f2 | "A"e6 fg | \
+"D"a2f2 d2f2 | "A"e4 A4 | "Bm"F2A2 "A7"A2f2 | "D"d6 :|
+P:B
+|:cd | "A"edcB A2e2 | "F#m"f2c2 "Bm"d2B2 | \
+"Bm"fga2 "E7"b2^g2 | "A"a6 ef | \
+"G"gfed "A"c2a2 | "Em"B2g2 "A"A2fg | \
+"G"e2d2 "A7"e2c2 | "D"d6 :|
+
+X:481
+T:Jack's Maggot
+M:4/4
+L:1/8
+B:The Round Band Book of Playford
+K:D
+P:A
+dc | "D"d2D2 F2A2 | "G"BABc "A"d2e2 | \
+"D"fga2 "G"Bcd2 | "Em"e3f "A7"e2c2 | \
+"D"d2D2 F2A2 | "G"Bcd2 "A"c2ag | \
+"D"f2d2 "A7"e2c2 | "D"d4- d2 :|
+P:B
+|: fg | "D"a2 f4 a2 | "Bm"f2 d4 ef | \
+"Em"gfed c2 d2 | "A7"e6 fg | \
+"D"a2f2 d2 f2 | "D"A2d2 F2A2 | \
+"G"d3e "A7"e3d | "D"d6 :|
+
+
+

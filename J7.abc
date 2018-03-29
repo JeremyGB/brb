@@ -1,0 +1,49 @@
+% Big Round Band: Set J7
+
+%%partsfont * * box
+%%partsspace -5
+%%leftmargin 1.50cm
+%%staffwidth 18.00cm
+%%topspace 0cm
+%%botmargin 0.40cm
+
+%%textfont * 20
+%%text J7 (1.0)
+%%textfont * 12
+
+
+
+X:160
+T:Atholl Highlanders
+M:6/8
+L:1/8
+K:A
+P:A
+"A"e3 ecA|ecA Bcd|e3 ecA|"E"Bcd cBA|"A"e3 ecA|ecA Bcd|"A"eae "D"fed|"E7"edB "A"A3:|
+P:B
+|:"A"Ace Ace|"D"Adf Adf|"A"Ace Ace|"E"Bcd c2B|"A"Ace Ace|"D"Adf Adf|"A"eae "D"fed|"E7"cdB "A"A3:|
+P:C
+|:"A"aee edc|aee edc|aee edc|"D"Bcd "E"cBA|"A"aee edc|aee edc|"A"aee "D"fed|"E7"cdB "A"A3:|
+P:D
+|:"A"cAc cAc|"D"dBd dBd|"A"cAc cAc|"G"B=GB BGB|"A"cAc cAc|"D"dcd "E"Bcd|"A"eae "D"fed|"E7"cdB "A"A3:|
+T:Harmony 1
+P:A
+"A"c3 cAE|cAE GAB|c3 cAE|"E"GAB AGE|"A"c3 cAE|cAE GAB|"A"cBc "D"dcB|"E7"ABG "A"A3:|
+P:B
+|:"A"EAc EAc|"D"FAd FAd|"A"EAc EAc|"E"GAB A2G|"A"EAc EAc|"D"FAd FAd|"A"cBc "D"dcB|"E7"ABG "A"A3:|
+P:C
+|:"A"c2c cde|c2c cde|c2c cde|"D"f2e "E"d2B|"A"ccc cde|ccc cde|"A"cBc "D"dcB|"E7"ABG "A"A3:|
+P:D
+|:"A"AEA AEA|"D"BFB BFB|"A"AEA AEA|"G"=GDG GDG|"A"AEA AEA|"D"BAB ^GAB|"A"cBc "D"dcB|"E7"ABG "A"A3:|
+T:Harmony 2
+P:A
+A6-|A6-|A6-|A3 cde|A6-|A6-|A6-|1A3 cde:|2A3 z3||
+P:B
+|:A2A-A2E|F2F-F2D|E2E-E2A|G2A BAG|A2A-A2E|F2F-F2D|E3 A3|GAB A3:|
+P:C
+|:a2a-a2a|g2g-g2g|fga g2f|e3-e2c|d2e fed|c2d edc|B2c dcB|A6:|
+P:D
+|:"A"A2B cBA|"D"B2c dcB|"A"c2d edc|"G"d2e fed|"A"c2d edc|"D"B2c dcB|"A"c3 "D"d3|"E7"BAG "A"A3:|
+
+
+

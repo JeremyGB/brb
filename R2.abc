@@ -1,0 +1,44 @@
+% Big Round Band: Set R2
+
+%%partsfont * * box
+%%partsspace -5
+%%leftmargin 1.50cm
+%%staffwidth 18.00cm
+%%topspace 0cm
+%%botmargin 0.40cm
+
+%%textfont * 20
+%%text R2 (1.0)
+%%textfont * 12
+
+
+
+X:610
+T:Jimmy Allen
+B:Join The Band
+M:C|
+L:1/4
+K:G
+P:A
+G/A/|"G"BG GA|"G"B2 GA/B/|"D"cA AB|"D"c2 BA|
+"G"Gg "C"ge|"G"d2 BB/c/|"G"dd "D"cA|"G"G3:|
+P:B
+|:B/A/|"G"Gg g>f|"G"ed cB|"D"Aa a>f|"D"fd ef|
+"G"g>a "C"ge|"G"d2 BB/c/|"G"dd "D"cA|"G"G3:|
+
+X:611
+T:My Love She's But A Lassie
+B:Join The Band
+M:C|
+L:1/4
+K:D
+P:A
+d/c/|"D"dD FA|"D"dD Dd/c/|"D"dD FA|"A"eE Ed/c/|
+"D"dD FA|"G"Bg fe|"A"d/c/B/A/ Bc|"D"dD D:|
+P:B
+|:f/g/|"D"a>f "A"g>e|"D"fd df/g/|"D"a>f "G"ga|
+"A"be ef/g/|"D"a>f "A"g>e|"D"f>d "G"e>c|"A"d/c/B/A/ Bc|"D"dD D:|
+
+
+
+

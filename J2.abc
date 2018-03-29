@@ -1,0 +1,54 @@
+% Big Round Band: Set J2
+
+%%partsfont * * box
+%%partsspace -5
+%%leftmargin 1.50cm
+%%staffwidth 18.00cm
+%%topspace 0cm
+%%botmargin 0.40cm
+
+%%textfont * 20
+%%text J2 (1.0)
+%%textfont * 12
+
+
+
+X:110
+T:Nellie The Elephant
+M:6/8
+L: 1/8
+K:G
+P:A
+"G"Bcd BAG|"G"B2B d2d|"C"e2e gfe|"G"d3 B3|\
+"D7"c2c AAA|"G"ddd B3|1"D/A"f3 "A"e3|"D"d3 "D7"cBA:|2"C"e3 "D"F3|"G"G3-G2G||
+P:B
+"C"Gce g2e|"G"g3 d3|"C"e3 d2c|"G"B3-B2B|\
+"A"A2B ^cBA|"D"d2e ffg|"A"a2g f2e|"D7"d3 cBA|
+"G"Bcd BAG|"G"B2B d2d|"C"e2e gfe|"G"d3 B3|\
+"D7"c2c AAA|"G"ddd B3|"C"e3 "D"F3|"G"G3-G2G|]
+
+X:111
+T:Pop Goes The Weasel
+M:6/8
+L:1/8
+Z:Dave Holland <dave@biff.org.uk>
+K:D
+P:A
+"D"D2F "A"E2G|"D"FAF D3|"D"D2F "A"E2G|"D"F3 D3|\
+"D"D2F "A"E2G|"D"FAF D3|"G"Bz2 "A"E2G|"D"F3 D3:|
+P:B
+|:"Bm"d2c B2d|"A"cec A3|"G"d2c B2d|"F#m"c3 A3|\
+"Em"G2F G2A|"D"B2c "Bm"d3|"G"Bz2 "A"E2G|"D"F3 D3:|
+
+X:112
+T:The Teddy Bears' Picnic
+M:6/8
+L:1/8
+K:Em
+B,|"Em"E2G "B"FGF|"Em"E2G "B"F2G|"Em"EFG "B"F2G|"Em"E3-E2D|\
+"G"G2B "D"ABA|"G"G2B "D"A2B|"G"GAB "D"A2B|"G"G3-G2d|
+"C"e2d e2d|"D"ABd B2A|"G"A2G A2G|"C"EFG E2D|\
+"C"E2G "G"D2G|"C"EFG "G"D2B|"D"A3-A3|"G"G3-G2:|
+
+
+

@@ -1,0 +1,42 @@
+% Big Round Band: Set H3
+
+%%partsfont * * box
+%%partsspace -5
+%%leftmargin 1.50cm
+%%staffwidth 18.00cm
+%%topspace 0cm
+%%botmargin 0.40cm
+
+%%textfont * 20
+%%text H3 (1.0)
+%%textfont * 12
+
+
+
+X:820
+T:Miss Thompson's Hornpipe
+C:Errington Thompson
+M:4/4
+L:1/8
+K:D
+P:A
+(3ABc|"D"d2d>f e>dc>B|"A"A2A>B A>GF>E|"D"D>FA>F "G"D>GB>G|"D"D>FA>F "A"G>FE>D|
+"D"d2d>f e>dc>B|"A"A2A>B A>GF>E|"D"D>FA>d "A"f>ed>c|"G"d2"A7"d>c "D"d2 :|\
+P:B
+|:c>d|"A"e>ce>c A>ce>c|"D"f>df>d A>df>d|"Em"g>eg>e "Bm"f>df>d|"E7"e>dc>B "A"A2D>G|
+"G"B>GB>G D>GB>d|"D"A>FA>F D>FA>d|"D"F>Ad>e "A"f>ed>c|"G"d2"A7"d>c "D"d2:|
+
+X:821
+T:Off to California
+M:4/4
+L:1/8
+K:G
+P:A
+(3DEF|"G"G>FG>B "D7"A>GE>D|"G"G>Bd>g "C"e2"D"(3def|"G"g>fg>d e>dB>G|"Am"A>BA>G "D"E2(3DEF|
+"G"G>FG>B "D7"A>GE>D|"G"G>Bd>g "C"e2"D"(3def|"G"g>fg>d e>dB>G|"D"A>BA>F "G"G2:|
+P:B
+|:d2|"Em"g>fe>g "D"f>ed>f|"C"e>de>f "D7"e>dB>d|"G"g>fg>d e>dB>G|"Am"A>BA>G "D"E2(3DEF|
+"G"G>FG>B "D7"A>GE>D|"G"G>Bd>g "C"e2"D"(3def|"G"g>fg>d e>dB>G|"D"A>BA>F "G"G2:|
+
+
+

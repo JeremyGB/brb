@@ -1,0 +1,47 @@
+% Big Round Band: Set S2
+
+%%partsfont * * box
+%%partsspace -5
+%%leftmargin 1.50cm
+%%staffwidth 18.00cm
+%%topspace 0cm
+%%botmargin 0.40cm
+
+%%textfont * 20
+%%text S2 (1.0)
+%%textfont * 12
+
+
+
+X:1010
+T:Czech Dance
+T:Tune
+M:2/4
+L:1/8
+K:G
+P:A
+B,|"Em"EE "B7"EF|"Em"GG "B7"GA|"Em"BB "B7"Bc|"Em"Bz zG|"Am6"AA AB|"Em"GG GA|"B7"FF FG/2F/2|1"Em"Ez zB,:|2"Em"Ez z2||
+P:B
+"Em"e2 B2|"Em"B"Am"c "D"d2|"B7"AA/2A/2 BA|GF "Em"E2|"Em"e2 B2|"Em"B"Am"c "D"d2|"B7"AA/2A/2 BA|GF "Em"E2||
+P:C
+"Em"EF G2|EF G2|"B7"B>A GF|"Em"E2 E2|"Em"EF G2|EF G2|"Am"B>A "B7"GF|"Em"E2 E2|]
+T:Harmony 1
+P:A
+B,|"Em"B,B, "B7"B,D|"Em"EE "B7"EF|"Em"GG "B7"GA|"Em"Gz zE|"Am6"FF FG|"Em"EE EF|"B7"DD DC/2D/2|1"Em"Ez zB,:|2"Em"Ez z2||
+P:B
+"Em"E2 G2|"Em"G"Am"E "D"F2|"B7"F>E DB,|C^D "Em"E2|"Em"E2 G2|"Em"G"Am"E "D"F2|"B7"F>E DB,|C^D "Em"E2||
+P:C
+"Em"EC B,2|EC B,2|"B7"^D>E FD|"Em"E2 E2|"Em"EC B,2|EC B,2|"Am"^D>E "B7"FD|"Em"E2 E2|]
+T:Harmony 2
+P:A
+M:2/4
+L:1/8
+K:G
+z|zE zB,|zE zB,|zE zB,|Ez G,2|zA, zA,|zB, zB,|^D2 D2|1E=D CB,:|2EE Ez||
+P:B
+Ez E2-|E^D =D2|z^D zD|zE zE|Ez E2-|E^D =D2|z^D zD|E2 E2||
+P:C
+zE zE|zE zE|z^D zD|E2 E2|zE zE|zE zE|A,2 B,2|E4||
+
+
+

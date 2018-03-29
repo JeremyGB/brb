@@ -1,0 +1,50 @@
+% Big Round Band: Set 48J4
+
+%%partsfont * * box
+%%partsspace -5
+%%leftmargin 1.50cm
+%%staffwidth 18.00cm
+%%topspace 0cm
+%%botmargin 0.40cm
+
+%%textfont * 20
+%%text 48J4 (1.0)
+%%textfont * 12
+
+
+
+X:230
+T:The Blarney Pilgrim
+M:6/8
+L:1/8
+K:G
+P:A
+"G"D2D DEG|"D"A2G ABc|"G"BAG AGE|"C"G2A "D7"GED|
+"G"D2D DEG|"D"A2G ABc|"G"BAG AGE|"D"GED D3:|
+P:B
+|:"G"d2d dBG|"D"AGA BGE|"G"d2d dBG|"D"ABA "G"G2B|
+"Em"g2e dBG|"Am"AGA "Em"BGE|"G"B2G "C"AGE|1 "G"GAG G3:|2 "G"GAG "Am"GFG||
+P:C
+|:"D"A2D B2D|A2D ABc|"G"BAG AGE|"C"GEA GED|
+"D"A2D B2D|A2D ABc|"G"BAG AGE|"D"GED D3:|
+
+X:231
+T:The Bedbreaker
+M:6/8
+L:1/8
+K:G
+P:A
+"G"D2G G2D|"C"E2G "D7"FGA|"G"B2G G2D|"G"EFG "D7"F2E|\
+"G"D2G G2D|"C"E2G "D7"FGA|"G".B3 G3|"D7"E2F "G"G3:|
+P:B
+|:"G"B2g f2g|"C"e3-e2f|"G"gfe d2B|"Am"A3-"D7"ABA|\
+"G"G2B BAB|"Am"c2A "D7"d2c|"G"B2G "D7"A2F|1 "G"G3 G3:|2 "G"G3 F3||
+P:C
+"Em"E3 F3|G3 A3|Bee e2^d|e3 e3|\
+"Em"E3 F3|G3 A3|"Bm"B2A G2F|G2F E2^D|
+"Em"E3 F3|G3 A3|Bee e2^d|e3 e2f|\
+"C"g2f gfe|"G"d2g "Em"B2d|"Am"cdc "D7"B2A|"G"G3-G3||
+
+
+
+

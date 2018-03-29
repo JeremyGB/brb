@@ -1,0 +1,85 @@
+% Big Round Band: Set W3
+
+%%partsfont * *
+%%partsbox 1
+%%partsspace -5
+%%leftmargin 1.50cm
+%%staffwidth 18.00cm
+%%topspace 0cm
+%%botmargin 0.40cm
+
+%%textfont * 20
+%%text W3 (1.0) p1
+%%textfont * 12
+
+
+
+X:920
+T:One Such
+T:Tune
+C:Robin Jowett, Whapweasel
+C:Transcription used with permission
+M:3/4
+L:1/8
+K:Dmix
+P:A
+AB|"C5"c2 cB AB|c2 cB AB|"G5"B2 BA GB|"D5"A4 DE|\
+F2 F2 G2|A2 AG FA|"C5"G2 GF E2|"D5"D4:|
+P:B
+|:DE|"D5"F2 F2 G2|A2 A2 B2|c2 cd e2|f4 DE|\
+F2 F2 G2|A2 AG FA|"C5"G2 GF E2|"D5"D4:|
+T:Harmony
+P:A
+z2|"C5"z2 [Ac][Ac] [Ac]z|z2 [Ac][Ac] [Ac]z|\
+"G5"z2 [GB][GB] [GB]z|"D5"[F4A4] [E2G2]|\
+z2 [DF][DF] [DF]z|z2 [DF][DF] [DF]z|\
+"C5"[C2E2] [B,2D2] [A,2C2]|"D5"[A,4D4]:|
+P:B
+|:z2|"D5"z2 [A,D][G,C] [A,D][CE]|[D2F2] [E2G2] [F2A2]|\
+[E2G2] [F2A2] [G2B2]|[A4d4] [c2e2]|\
+z2 [df][df] [df]z|z2 [df][df] [df]z|\
+"C5"[c2e2] [B2d2] [A2c2]|"D5"[A4d4]:|
+
+
+
+%%newpage
+%%textfont * 20
+%%text W3 (1.0) p2
+%%textfont * 12
+
+
+X:921
+T:Waltz II
+%%stretchstaff 0
+T:Tune
+C:Martin Keates
+C:Transcription used with permission
+M:3/4
+L:1/8
+K:Dm
+P:A
+Ac|"Dm"d2 dA df|e4 dc|"F"A2 AG Ac|A6|\
+"Bb"B2 Bd df|"Gm7"B2 Bd df|"Bb"B2 Bc BG|"C"E4|
+Ac|"Bb"d2 dB df|"C"e4 dc|"F"A2 AG Ac|A6|\
+"Bb"B2 Bd df|"Gm7"B2 Bd df|"Bb"B2 Bc BG|"C"E4||
+P:B
+|:FG|"F"A2 AF GA|c3A GF|"C"G2 GE FG|c2 A2 GE|"Dm"F2 FD FG|
+A3F GA|[1"Bb"B2 Bc BG|"C"E4:|[2"Bb"B2 Bc AB|"C"c3c|]
+P:last
+"Bb"B2 Bc AB|"C"c3c Ac|"Dm"d6-|d4|]
+T:Harmony
+P:A
+"Dm"a6|g4 f2-|"F"f2 fe de|c6|\
+"Bb"d2-dc df|"Gm7"g4 f2|"Bb"g2-gf ef|"C"g4 a2|
+"Bb"b6|"C"a4 g2|"F"f2-fe fg|a6|\
+"Bb"d2-dc df|"Gm7"g4 f2|"Bb"d2-dc df|"C"e2-ef/e/ de||
+P:B
+|:"F"f2 fe de|f2 fg fd|"C"e2 ed cd|e2 f2 e2|"Dm"d2-dA de|
+[1"Dm"f4 g2|"Bb"a2-ag fa|"C"g2-ga/g/ fe:|\
+[2"Dm"f4 e2|"Bb"d2 de fd|"C"e2 f2 g2|]
+P:last
+"Dm"f4 e2|"Bb"d2 de fd|"C"e2 f2 e2|"Dm"d6-|d4|]
+
+
+
+

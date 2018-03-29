@@ -1,0 +1,64 @@
+% Big Round Band: Set W1
+
+%%partsfont * * box
+%%partsspace -5
+%%leftmargin 1.50cm
+%%staffwidth 18.00cm
+%%topspace 0cm
+%%botmargin 0.40cm
+
+%%textfont * 20
+%%text W1 (1.0) p1
+%%textfont * 12
+
+
+
+X:900
+T:The Star of the County Down
+M:3/4
+L:1/4
+K:Am
+P:A
+E/G/|"Am"A2A|"F"A>GA|"C"c2c|"G"d2c/d/|"C"e>dc|"Am"A>GE|"G"G3-|GcB|
+"Am"A2A|"F"A>GA|"C"c2c|"G"d2c/d/|"Am"e>dc|"Dm"A2A|"Am"A3-|A2||
+P:B
+e|"C"g2e|e>dc|"G"d2d|d2c/d/|"Am"e>dc|A>GE|"G"G3-|GcB|
+"Am"A2A|"F"A>GA|"C"c2c|"G"d2c/d/|"Am"e>dc|"Dm"A2A|"Am"A3-|A2||
+T:Harmony
+P:A
+c/B/|"Am"A2E|"F"F2E/D/|"C"CDF|"G"G2^G|"C"A>Bc|"Am"f>ec|"G"d3-|dcB|
+"Am"A2E|"F"F2E/D/|"C"CDF|"G"G2^G|"Am"A2A|"Dm"F2F|"Am"E3-|E2||
+P:B
+B|"C"c2c|c>BA|"G"G2A|B>AG|"Am"A2B|c>BA|"G"B3-|BAG|
+"Am"A2E|"F"F2E/D/|"C"CDF|"G"G2^G|"Am"A2A|"Dm"F2F|"Am"E3-|E2||
+
+
+
+%%newpage
+%%textfont * 20
+%%text W1 (1.0) p2
+%%textfont * 12
+
+
+X:901
+T:Twickenham Ferry
+T:Tune
+M:3/4
+L:1/4
+K:G
+P:A
+d|"G"g>fe|d>cB|"C"ABG|"D7"FED|"G"G>AB|"Bm"d>eB|"Am"deB|"D7"def|
+"Em"g>fe|"G"d>cB|"C"ABG|"D7"FED|"Em"G>ED|"Am"GED|"D7"GED|"G"G2||
+P:B
+B|"Em"e>fe|B>^AB|"Bm"d>ed|d>cB|"Em"e>fe|B>^AB|"Bm"d>ed|"D7"def|
+"Em"g>fe|"G"d>cB|"C"ABG|"D7"FED|"Em"G>ED|"Am"GED|"D7"GED|"G"G2||
+T:Harmony
+P:A
+z|"G"zG/F/ G/A/|B>cd|"C"cde|"D7"d2c|"G"B>AG|"Bm"G>AB|"Am"c>B A/G/|"D7"A2F|
+"G"GG/F/ G/A/|B>cd|"C"cde|"D7"d2c|"G"B>AG|"Am"c>BA|"D7"GAF|"G"G2||
+P:B
+F|"Em"EE/D/ E/F/|GFE|"Bm"FF/E/ F/G/|AGF|"Em"GG/F/ G/A/|BAG|"Bm"ABc|"D7"dzD|
+"G"GG/F/G/ A/|B>cd|"C"cde|"D7"d2c|"G"B>AG|"Am"c>BA|"D7"GAF|"G"G2||
+
+
+

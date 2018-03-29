@@ -1,0 +1,43 @@
+% Big Round Band: Set H4
+
+%%partsfont * * box
+%%partsspace -5
+%%leftmargin 1.50cm
+%%staffwidth 18.00cm
+%%topspace 0cm
+%%botmargin 0.40cm
+
+%%textfont * 20
+%%text H4 (1.0)
+%%textfont * 12
+
+
+
+X:830
+T:Uttoxeter Swing
+M:2/2
+L:1/8
+K:Em
+P:A
+"Em"E2 EF G2 GB|"D"A2 AG FE D2|"Em"E2 EF G2 GB|"D"AG FG A4|
+"Em"E2 EF G2 GB|"D"A2 AG FE D2|"Em"EB2E "Cmaj7"B2 AG|"D"F2 FG "Em"E4:|
+P:B
+|:"G"B2 BA BA G2|"D"zA AG AG F2|"Em"G2 GF GF E2|"D"FF2G A4|
+"G"B2 BA BA G2|"D"zA AG AG F2|"Em"EB2E "Cmaj7"B2 AG|"D"F2 FG "Em"E4:|
+T:Harmony 1 (Swing Uttoxeter)
+P:A
+"Em"B2 BA G2 GE|"D"F2 FG AB c2|"Em"B2 BA G2 GE|"D"FG FE D4|
+"Em"B2 BA G2 GE|"D"F2 FG AB c2|"Em"BE2B "Cmaj7"E2 FG|"D"A2 AG "Em"E4:|
+P:B
+|:"G"G2 GA GA G2|"D"zF FG FG F2|"Em"E2 EF EF E2|"D"DD2E F4|
+"G"G2 GA GA G2|"D"zF FG FG F2|"Em"BE2B "Cmaj7"E2 FG|"D"A2 AG "Em"E4:|
+T:Harmony 2
+P:A
+"Em"e2 ed B2 ed-|"D"dA de fe d/2e/2f|"Em"e2 ed B2 ed-|dB BA B4|
+"Em"e2 ed B2 ed-|"D"dA de f2 z2|"Em"gf e/2f/2g "Cmaj7"fe d/2e/2f|"D"ef ed "Em"e4:|
+P:B
+|:"G"G2 GA Bc d2-|"D"de d^c de f2|"Em"e2 ef gf eg|"D"ag fe dc BA|
+"G"G2 GA Bc d2-|"D"de d^c de f2|"Em"gB2g "Cmaj7"c2 gg|"D"fg fd "Em"e4:|
+
+
+

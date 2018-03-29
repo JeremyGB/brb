@@ -1,0 +1,78 @@
+% Big Round Band: Set M1
+
+%%partsfont * * box
+%%partsspace -5
+%%leftmargin 1.50cm
+%%staffwidth 18.00cm
+%%topspace 0cm
+%%botmargin 0.40cm
+
+%%textfont * 20
+%%text M1 (1.0) p1
+%%textfont * 12
+
+
+
+%%staffwidth 18.50cm
+
+X:700
+T:Stomping in the Shower
+%%stretchstaff 0
+T:Tune
+C:Andrew Swaine
+M:2/2
+L:1/8
+K:G
+P:A
+"Em"E2BB BEGB|c2B2 A2G2|E2BB BEGB|A2G2 F2E2|\
+E2BB BEGB|c2B2 A2G2|E2BB BEGB|"D".A2 z2 z4:|
+P:B
+|:"C"G2GA GFE2|"D"F2FG FED2|"Em"E2BB BEGB|A2G2 E2F2|\
+"C"G2GA GFE2|"D"F2FG FED2|"Em"E2BB BEGB|"D"c2B2 A2G2:|
+P:last
+"Em"E2BB BEGB|"Em".e2z2 z4:|
+T:Harmony 1
+P:A
+"Em"e2ef g2gg|gfe2 f4|e2ed B2Be|d2de fed2|\
+e2ef g2gg|gfe2 f4|e2ed B2e2|"D".d2z2 z4:|
+P:B
+|:"C"c2cd edc2|"D"d2ee fed2|"Em"e2ef gfef|gfga gfe2|\
+"C"c2cd edc2|"D"d2ee fed2|"Em"e2ef gfe2|"D"gfga gfe2:|
+T:Harmony 2
+P:A
+"Em".E2z2 .E2z2|.E2z2 .E2z2|.E2z2 .E2z2|.E2z2 .E2z2|\
+.E2z2 .E2z2|.E2z2 .E2z2|.E2z2 .E2z2|"D".D2z2 z4:|
+P:B
+|:"C"C2.C2 z2C2|"D"D2.D2 z2D2|"Em"E2.E2 z2E2|E2D2 C2B,2|\
+"C"C2.C2 z2C2|"D"D2.D2 z2D2|"Em"E2.E2 z2E2|1 .D2z2 B,4:|2 .D2z2 z4|]
+
+
+
+%%newpage
+%%textfont * 20
+%%text M1 (1.0) p2
+%%textfont * 12
+
+
+X:701
+T:Nonesuch
+M:2/4
+L:1/8
+K:Am
+P:A
+e|"Am"ec/c/ de|cB/c/ Ae|ec/c/ de|c2 Ae|ec/c/ de|cB/c/ Ae|ec/c/ de|c2 A||
+P:B
+e|"G"BG/G/ AB|"Am"cB/c/ Ac|"Em"BG/G/ AB|"Am"c2 Ac|\
+"G"BG/G/ AB|"F6"cB/c/ Ac|"G"BG/G/ AB|"Am"c2 A:|
+P:C
+K:A
+|:e|"A"ec/c/ de|cB/c/ Ae|ec/c/ de|c2 ce|\
+ec/c/ de|"F#m7"cB/c/ Ae|"D"ec/c/ "E"de|"A"c2 c||
+P:D
+c|"E"BE/E/ AB|"A"cB/c/ Ac|"E"BE/E/ AB|"A"c2 cc|\
+"E"BE/E/ AB|"F#m7"cB/c/ Ae|"D"ec/c/ "E"de|"A"c2 c:|
+
+%%staffwidth 18.00cm
+
+
+

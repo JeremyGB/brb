@@ -1,0 +1,59 @@
+% Big Round Band: Set 48J3
+
+%%partsfont * * box
+%%partsspace -5
+%%leftmargin 1.50cm
+%%staffwidth 18.00cm
+%%topspace 0cm
+%%botmargin 0.40cm
+
+%%textfont * 20
+%%text 48J3 (1.0)
+%%textfont * 12
+
+
+
+X:220
+T:Oswestry Wake
+M:6/8
+L:1/8
+K:G
+P:A
+d|"C"efg "D"f2e|"G"dcB "D"A2G|"G"gfe "Am"f2g|"D7"a3-a2d|\
+"C"efg "D"f2e|"G"dcB "D"ABc|"G"BGB "D"AFA|"G"G3-G2:|
+P:B
+|:A|"G"B>cd ded|dBG dBG|"Am"A>BA c2d|"C"e3-edc|\
+"G"Bcd "D"def|"Em"g3 "D"d3|"Em"BGE "D"AFD|"G"G3-G2:|
+P:C
+|:d|"G"gdB gdB|gdB "D"A2G|"G"g2e "Am"f2g|"D"a3-a2f|\
+"G"gba "Em"gfe|"Am"fag "D"fed|"C"egB "D"A2G|"G"G3-G2:|
+
+X:221
+T:Morgan Rattler
+T:Tune
+M:6/8
+L:1/8
+K:D
+P:A
+"A"AFE EFG|"D"FEF D2B|"A"AFE EFG|"G"B2A Bcd|\
+"A"AFE EFG|"D"FEF D2A|"D"dcB "A"edc|"G"B2A Bcd:|
+P:B
+|:"D"d2d fed|"A"cAc edc|"D"d2d fed|"G"f2e "A"fga|\
+"D"d2e "A/c#"f2g|"Bm7"agf "A"edc|"G"dcB "Em7"edc|"A"B2A Bcd:|
+P:C
+|:"D"D2d dcd|"Em"E2e ede|"D/f#"D2d dcd|"G"B2A "A"Bcd|\
+"D"D2d dcd|"Em"E2e efg|"Bm7"agf "A"edc|"G"B2A Bcd:|
+P:last
+"A"cBA GFE|"D"Dz2 z3|]
+T:Harmony
+P:A
+[E2A2][EA] z2[EA]|[D2A2][DA] z2[DA]|[E2A2][EA] z2[EA]|[B3G3] [G3D3]|\
+[E2A2][EA] z2[EA]|[D2A2][DA] z2[DA]|[d3A3] [c3A3]|[B3G3] [G3D3]:|
+P:B
+[d2A2][ce] [f2d2][af]-|[a2f2][fd] z3|[a2f2][ge] [f2d2][ec]-|[e2c2][cA]|\
+[d2A2][ce] [f2d2][af]-|[a2f2][fd] z3|[b2g2][af] [g2e2][ec]-|[e3c3] [c3A3]:|
+P:C
+[d2A2][dA] z2[dA]|[e2B2][eB] z2[eB]|[f2d2][fd] z2[fd]|[e3B3] [c3A3]|\
+[d2A2][dA] z2[dA]|[e2B2][eB] z2[eB]|[f3d3] [e3c3]|[d3B3] [c3A3]:|
+P:last
+[A2E2][AE] z2[AE]|[DA]z2 z3|]

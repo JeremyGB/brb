@@ -1,0 +1,43 @@
+% Big Round Band: Set M3
+
+%%partsfont * * box
+%%partsspace -5
+%%leftmargin 1.50cm
+%%staffwidth 18.00cm
+%%topspace 0cm
+%%botmargin 0.40cm
+
+%%textfont * 20
+%%text M3 (1.0)
+%%textfont * 12
+
+
+
+X:720
+T:McQuillan's Squeezebox
+C:Ralph Page
+K:C
+M:4/4
+L:1/4
+P:A
+EF|"C"G>AGF|"C"EG"F"cA|"C"G>AGF|E2DE|"G"F>GFE|
+DGBd|1"C"c>d"Am"cA|"G7"G2:|2"C"c>d"G"cB|"C"c2||
+P:B
+|:cd|"C"e>fed|cGcd|e>fed|c2Bc|"G"d>efe|
+dGBc|1"G"d>e"D7"fe|"G7"d2:|2"G7"dced|"C"c2||
+
+X:721
+T:Bonaparte Crossing the Rhine
+K:D
+M:4/4
+L:1/4
+P:A
+FG|"D"A>BAF|"A"A2de|"D"f>efa|d2dc|"G"B>cdB|"D"AFDF|"E7"E2E>F|"A7"E2FG|
+"D"A>BAF|"A"A2de|"D"f>efa|d2dc|"G"B>cdB|"A"AFEF|"D"D2D>E|D2||
+P:B
+de|"D"f>efg|"A"a2aA|"G"B>ABc|"D"d3A|"G"B>cdB|"D"AFDF|"E7"E2E>F|"A7"E2de|
+"D"f>efg|"A"a2aA|"G"B>ABc|"D"d3A|"G"B>cdB|"A"AFEF|"D"D2D>E|D2||
+
+
+
+

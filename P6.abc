@@ -1,0 +1,40 @@
+% Big Round Band: Set P6
+
+%%partsfont * * box
+%%partsspace -5
+%%leftmargin 1.50cm
+%%staffwidth 18.00cm
+%%topspace 0cm
+%%botmargin 0.40cm
+
+%%textfont * 20
+%%text P6 (1.0)
+%%textfont * 12
+
+
+
+X:450
+T:Itsy Bitsy Teeny Weeny Yellow Polka Dot Bikini
+T:Tune
+K:D
+M:2/4
+L:1/8
+P:A
+A2|B2=c2|:"A"^cc BA|cc BA|"D"dd BA|dd BA|
+"A"zc cB|AB2A|1"D"AB2A|F3A:|2"A"GF2E|"D"DF FG||
+P:B
+"D"AF2G|AF2A|"A"GE3|zE EF|"A"GE2F|Gc2B|"D"A4|zFFG|
+"D"AF2G|Ad2c|"G"cB3|zB BB|"D"AF2A|"A"GF2E|"D"D2A2|B2=c2||
+T:Harmony
+P:A
+z2|z4|:"A"z.[EAc] z.[EAc]|z.[EAc] z.[EAc]|"D"z.[FAd] z.[FAd]|z.[FAd] z.[FAd]|
+"A"z.[EAc] z.[EAc]|z.[EAc] z.[EAc]|1 "D"z.[FAd] z.[FAd]|\
+.[FAd]z z2:|2 "A"z.[EAc] z.[EAc]|"D".[FAd]z z2||
+P:B
+"D"z.[FA] z.[FA]|z.[FA] z.[FA]|"A"z.[EA] z.[EA]|z.[EA] z.[EA]|\
+z.[EA] z.[EA]|z.[EA] z.[EA]|"D"z.[FA] z.[FA]|z.[FA] z.[FA]|
+"D"z.[FA] z.[FA]|z.[FA] z.[FA]|"G"z.[GB] z.[GB]|z.[GB] z.[GB]|\
+"D"z[FA]- [FA].[FA]|"A"z[EA]- [EA].[EA]|"D".[FA]z z2|z4||
+
+
+

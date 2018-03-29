@@ -1,0 +1,48 @@
+% Big Round Band: Set P4
+
+%%partsfont * * box
+%%partsspace -5
+%%leftmargin 1.50cm
+%%staffwidth 18.00cm
+%%topspace 0cm
+%%botmargin 0.40cm
+
+%%textfont * 20
+%%text P4 (1.1)
+%%textfont * 12
+
+
+
+X:430
+T:La Russe
+L:1/8
+M:2/2
+K:G
+P:Intro.
+GG|"G"G2BB B2dd|d2g2 g2fg|"Am"e2d2 d2F2|"D"A2G2 "G"G2 ||
+P:A
+|:GG |"G"G2BB B2dd|d2g2 g2fg|"Am"a2g2 e2c2|"D"e2d2 dcBA|
+"G"G2BB B2dd|d2g2 g2fg|"Am"e2d2 d2F2|"D"A2G2 "G"G2 :|
+P:B
+K:D
+|: AA|"D"A2dd d2B2|A2aa a2f2|"G"g2f2 g2e2|"A7"fgag f2d2|
+"D"A2dd d2B2|A2aa a2f2|"A7"g2f2 g2e2|1 "D"d4 d2:|2 "D"d2fe d=cBA||
+
+%%text Back to A for last 8 bars
+
+X:431
+T:Peat Fire Flame
+M:2/2
+L:1/4
+K:G
+P:A
+"Em"E>F G>F | "Em"ED B2 | "Am"BA AG/2A/2 | "D"BA AB |
+"Em"E>F G>F | "Em"ED B>A | "Em"GE "Bm"FD | "Em"E2 E2 :|
+P:B
+|: "G"G>A Bg/2f/2 | "G"ed B2 | "Am"BA AG/2A/2 | "D7"BA AB |
+"G"G>A Bg/2f/2 | "G"ed B>A | "Em"GE "Bm"FD | "Em"E2 E2 :|
+
+%%text Back to La Russe for last time
+
+
+

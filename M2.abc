@@ -1,0 +1,44 @@
+% Big Round Band: Set M2
+
+%%partsfont * * box
+%%partsspace -5
+%%leftmargin 1.50cm
+%%staffwidth 18.00cm
+%%topspace 0cm
+%%botmargin 0.40cm
+
+%%textfont * 20
+%%text M2 (1.0)
+%%textfont * 12
+
+
+
+X:710
+T:Donkey Riding
+M:2/2
+L:1/4
+K:G
+P:A
+"G"G>A BB|"C"c "D"A "G"B2|"D"BA AG/A/|"D"BA A2|
+"G"G>A BB|"C"c "D"A "G"B2|"D"BA dd|"G"G2G2:|
+P:B
+|:"C"e2 "G"d>d|"D"cd "G"B2|"D"BA AG/A/|"D"BA A2|
+"C"e2 "G"d>d|"D7"cd "G"B2|"D"BA dd|"G"G2G2:|
+
+X:711
+T:Over The Hills & Far Away
+M:4/4
+L:1/8
+S:as played by John Adams
+O:England
+A:Everywhere
+K:G
+P:A
+"G"GABA GABA | "G"G2"C"E2E2"D"D2 | "G"GABA GABG | "C"c2 A2 "D"A3 A |
+"G"GABA GABA | "C"G2E2 c2E2 | "D"E2 DC D2GA |1 "G/D"B2A2"D"A3 D:|2"D"B2G2G2Bc||
+P:B
+|:"G"d2dc B2 BA | "C"G2 E2 E2 "D"D2 | "G"d2dc B2AG | "D7"c2A2A2 Bc |
+"G"d2 dc B2 BA|"C"G2E2 c2E2|"D"E2 DC D2GA |1"G/D"B2A2"D"A2 Bc :|2 "D"B2 G2 G4|]
+
+
+

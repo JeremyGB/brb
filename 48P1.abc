@@ -1,0 +1,50 @@
+% Big Round Band: Set 48P1
+
+%%partsfont * * box
+%%partsspace -5
+%%leftmargin 1.50cm
+%%staffwidth 18.00cm
+%%topspace 0cm
+%%botmargin 0.40cm
+
+%%textfont * 20
+%%text 48P1 (1.0)
+%%textfont * 12
+
+
+
+X:500
+T:Waterloo
+Z:Dave Holland dave@biff.org.uk from sheet music from Andrew Swaine
+M:2/2
+L:1/8
+K:G
+P:A
+"G"B,2GE D2BA|G2G2 G2FG|"C"A2A2 "D"GFEF|"G"GABG "D"D2DC|
+"G"B,2GE "D/F"D2BA|"Em7"G2G2 G2"(D)"FG|"C"A2A2 "D"GFEF|"G"G2z2 z4:|
+P:B
+K:D
+|:"D"A2AF d2dB|A2AF D4|"A"CDEF GFEC|"D"DEFG "A"BAFG|
+"D"A2AF d2dB|A2AF D4|"A"CDEF GFEC|1"D"D2E2 F2G2:|2"D"D2=c2 B2c2||
+P:C
+K:G
+|:"G"d2dd dGBd|"C"e2"G"d2 "D"c2"G"B2|"D"A2A2 ADBA|"G"GFGA "D"BABc|
+"G"d2dd dGBd|"C"e2"G"d2 "D"c2"G"B2|"D"A2A2 ADBA|"G"GF"D"GA "G"G4:|
+
+X:501
+T:The Redower
+M:2/2
+L:1/8
+K:G
+P:A
+"G"GBd2 d2dd|dedc B2B2|GAB2 GAB2|"D"B2A2 A4|
+"D"ABc2 c2cc|cdcB A2A2|"D7"FGA2 FGA2|"G"A2G2 G4:|
+P:B
+|:"G"GBd2 g3d|d2B2 "Am"cdcB|"D"ABc2 f3e|e2d2 "D7"dedc|
+"G"Bcd2 g3d|d2B2 "Am"cdcB|"D"ABc2 f3e|"D7"ddef "G"g2z2:|
+P:C
+|:"G"G2Bc BcB2|"A"A2^cd cdc2|"G"B2GG A2B2|"C"c2d2 "D"a2g2|
+"G"G2Bc BcB2|"A"A2^cd cdc2|"G"B2GG A2B2|"C"c4 "(D7 last time)"c4:|
+
+
+

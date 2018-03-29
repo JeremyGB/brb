@@ -1,0 +1,35 @@
+% Big Round Band: Set S9
+
+%%partsfont * * box
+%%partsspace -5
+%%leftmargin 1.50cm
+%%staffwidth 18.00cm
+%%topspace 0cm
+%%botmargin 0.40cm
+
+%%textfont * 20
+%%text S9 (1.0)
+%%textfont * 12
+
+X:1080
+T:Horse's Branle
+T:Tune
+M:2/4
+L:1/8
+K:C
+P:A
+"C"c>d ee|"F"f>e df|"C"ed cB|"G"A2 G2|"C"c>d ee|"F"f>e df|"G"ec dB|"C"c2 c2:|
+P:B
+|:"C"gf/2e/2 de|"F"fe/2d/2 ce|"Dm"dc Bc|"G"d>e d2|"C"gf/2e/2 de|"F"fe/2d/2 ce|"G"dc cB|"C"c2 c2:|
+P:C
+K:Cm
+|:"Cm"ed/2c/2 ed/2c/2|"Gm"Bc d2|"F9"G>=A Bc|"G7"de dc|"Cm"ed/2c/2 ed/2c/2|"Gm"Bc d2|"F9"G>=A Be|"G7"c=B "C"c2:|
+T:Harmony
+P:A
+K:C
+"C"e>f gg|"F"a>g fa|"C"gf ed|"G"c2 d2|"C"e>f gg|"F"a>g fa|"G"g/2f/2e fd|"C"e2 e2:|
+P:B
+|:"C"ga/2b/2 c'g|"F"a>g fa|"Dm"g/2a/2g/2f/2 ef|"G"g>a g2|"C"ga/2b/2 c'g|"F"a>g fa|"G"g/2a/2g/2f/2 ed|"C"c2 c2:|
+P:C
+K:Cm
+|:"Cm"ef/2g/2 ef/2g/2|"Gm"ag fe|"F9"d>e dc|"G7"Bc d2|"Cm"ef/2g/2 ef/2g/2|"Gm"ag fe|"F9"d>e dc|"G7"d=B "C"c2:|

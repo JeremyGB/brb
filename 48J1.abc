@@ -1,0 +1,90 @@
+% Big Round Band: Set 48J1
+
+%%partsfont * * box
+%%partsspace -5
+%%leftmargin 1.50cm
+%%staffwidth 18.00cm
+%%topspace 0cm
+%%botmargin 0.40cm
+
+%%textfont * 20
+%%text 48J1 (2.0) p1
+%%textfont * 12
+
+
+
+X:200
+T:Spanish Jig
+M:6/8
+L:1/8
+K:G
+P:A
+ABc|"G"d2d cBA|G3 ABc|d2e c2d|B2G ABc|d2d cBA|GAB c2B|"C"ABc "D"BAB|"G"G3:|
+P:B
+|:Bcd|"C"e2e edc|"G"B2G e2d|"C"c2B "D"ABc|"Em7"d3 Bcd|\
+"C"e2e edc|"G"B2G e2d|"C"c2B "D"ABA|"G"G3:|
+P:C
+|:def|"C"g2B BAG|"D"A2G def|"C/E"g2B "D/F#"AGA|"G"G3 "D/F#"def|\
+"Em7"g2B BAG|"D"A2G def|"C"g2B "D"AGA|"G"G3:|
+T:Harmony Part
+P:A
+DEF|"G"G2G- .Gz D|G2G- .Gz D|G2G- .Gz D|G2G- .Gz D|
+G2G- .Gz D|E2E- .Ez B,|1"C"CB,A, "D"D2D|"G"G,3:|2"C"CDE "D"DEF|"G"G3||
+P:B
+|:GAB|"C"c2c- .cz c|"G"B2B- .Bz B|"C"c2B "D"AGA|"Em7"B3 GAB|\
+"C"c2c- .cz c|"G"B2B- .Bz B|"C"c2B "D"ABA|"G"G3:|
+P:C
+|:DEF|"C"G6-|"D"G6|"G"G3 "D"A3|"G"B2G "D"GAB|\
+"C"c2c cBA|"D"G3 c3B|"C"A2G "D"FEF|"G"G3:|
+
+
+
+%%newpage
+%%textfont * 20
+%%text 48J1 (2.0) p2
+%%textfont * 12
+
+
+X:201
+T:Stay where you are
+%C:anon.
+%O:Ireland
+B:Francis O'Neill: "The Dance Music of Ireland" (1907) no. 327
+R:Double jig
+Z:Transcribed by Frank Nordberg - http://www.musicaviva.com
+%http://www.musicaviva.com/oneill-1001-301-400.abc
+%m:Tn2 = (3n/o/n/ m/n/
+%m:T=c2 = (3c/d/c/ B/c/
+M:6/8
+L:1/8
+K:D
+P:A
+ABc|"D"dcd ABc|d2A AGE|dcd ABc|"Em"def "A7"gfe|\
+"D"dcd ABc|d2A AGE|"G6"GAG EDE|"A7"c3:|
+P:B
+|:ABc|"D"d2e fed|"A"ecA AcA|"Bm7"d2e fed|"G"faf "A7"gfe|\
+"D"d2e "(A/C#)"fed|"Bm7"ecA "(A)"AGF|"G6"GFG EDE|"A7"c3:|
+P:C
+|:ABc|"D"d2A "A7"c2A|"D"d2A ABc|"D"d2A c2A|"G"def "A7"gfe|\
+"D"d2A "C"=c2A|"G/B"B2G "A"A2F|"G6"GAG EDE|"A7"c3:|
+"last"ABc|"D".d|]
+T:Harmony 1
+P:A
+ABc|"D"d6-|d2A ABc|d6-|"Em"d2A "A7"ABc|"D"d6-|d2A AGE|"G6"G2G GAB|"A7"A3:|
+P:B
+|:ABc|"D"d6|"A"A6|"Bm7"B6|"G"G2G "A7"ABc|"D"d3 "A"c3|"Bm7"B3 "A"A3|"G6"G3 F3|"A7"E2A:|
+P:C
+|:cBc|"D"f3 "A7"e3|"D".d2z z3|"D"f3 e3|"G".d2z "A7"z3|\
+"D"f3 "C"e3|"G"d3 "A"c3|"G"B2c dcB|"A7"c3:|
+T:Harmony 2
+P:A
+BAG|F6-|F2B BAG|F6-|F2B BAG|F2F FEF|G6|F2F FEF|G3:|
+P:B
+|:BAG|F6|E6|D6|C6|D3 A3|F3 G3|B3 G3|A3:|
+% copied from Harmony 1, down an octave
+P:C
+|:CB,C|F3 E3|.D2z z3|F3 E3|.D2z z3|\
+F3 E3|D3 C3|B,2C DCB,|C3:|
+
+
+

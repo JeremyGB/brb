@@ -1,0 +1,31 @@
+% Big Round Band: Set P7
+
+%%partsfont * * box
+%%partsspace -5
+%%leftmargin 1.50cm
+%%staffwidth 18.00cm
+%%topspace 0cm
+%%botmargin 0.40cm
+
+%%textfont * 20
+%%text P7 (1.0)
+%%textfont * 12
+
+
+
+X:460
+T:Johnny Leary's
+M:4/4
+L:1/4
+K:D
+P:A
+"D"dd B/c/d/B/|AF AF|dd B/c/d/B/|AF "A7"ED|"D"dd B/c/d/B/|\
+"G"AF "A"Ad/e/|"D"fd "A7"ec|[1"D"dA Bc:|[2"D"d2 d>e||
+P:B
+|:"D"fd de/f/|"G"gf ed/e/|"D"fd Ad|f2 "A7"a>g|"D"fd de/f/|\
+"G"gf ed/e/|"D"fd "A7"ec|[1"D"d2 d>e:|[2"D"dA Bc|]
+P:last
+"D"fd "A7"ec|"D".dz z2|]
+
+
+

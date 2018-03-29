@@ -1,0 +1,42 @@
+% Big Round Band: Set P2
+
+%%partsfont * * box
+%%partsspace -5
+%%leftmargin 1.50cm
+%%staffwidth 18.00cm
+%%topspace 0cm
+%%botmargin 0.40cm
+
+%%textfont * 20
+%%text P2 (2.0)
+%%textfont * 12
+
+
+
+X:410
+T:Galopede
+L:1/8
+M:2/2
+K:G
+P:A
+dc|"G"B2Bc "D"A2AB|"G"G2G2 G2AB|"C"cBcd "Am"edcB|"D"A2A2 A2dc|
+"G"B2Bc "D"A2AB|"Em"G2G2 G2"G"AB|"Am"cBAG "D"FGAF|"G"G2G2 G2:|
+P:B
+dc|"G"B2gf "C"e2ed|"Am7"dcBc "D"A2dc|"Em"B2gf "C"edcB|"D"A2A2 A2dc|
+"Em"B2gf "C"e2ed|"Am7"dcBc "D"A2dc|"G"BdcB "D"AcBA|"G"G2G2 G2||
+P:C
+Bc|"G"d2d2 d2g2|d2d2 d2g2|"G"d2d2 "C"edcB|"D"A2A2 A2Bc|
+"G"d2d2 d2g2|d2d2 d2g2|"C"edcB "D"dcBA|"G"G2G2 G2|]
+
+X:411
+T:Enrico
+L:1/8
+M:2/2
+K:D
+P:A
+A|"D"d2fe dcdB|ABAG F2A2|"D"d2ef "Em"gfgf|"A"e2a2 "A7"a2A2|
+"D"d2fe dcdB|ABAG F2A2|"G"B2gf "A7"edec|"D"d2d2 d2:|
+P:B
+|:fg|"F#m"a2ag fgfe|"Bm"dedc B2B2|"Em"gagf efed|"A"cdcB "A7"A2A2|
+"D"d2d2 "A"cecA|"D"d2d2 "A"cecA|"D"d2f2 "A7"edec|"D"d2d2 d2:|
+

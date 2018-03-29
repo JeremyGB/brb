@@ -1,0 +1,49 @@
+% Big Round Band: Set J5
+
+%%partsfont * * box
+%%partsspace -5
+%%leftmargin 1.50cm
+%%staffwidth 18.00cm
+%%topspace 0cm
+%%botmargin 0.40cm
+
+%%textfont * 20
+%%text J5 (1.1)
+%%textfont * 12
+
+
+
+X:140
+T:MacNamara's Band
+K:G
+M:6/8
+L:1/8
+P:A
+"D7"d3|"G"B2B B2B|B2B B2B|B2B A2G|D3-D2D|"D7"c2c c2c|"G"B2B B2B|"A7"A2G F2G|"D7"A3 d3|
+"G"B2B B2B|B2B B2B|B2B A2G|D3-D2B|"C"c2c B2A|"G"d2B G2E|"D7"D2c B2A|"G"G3 "D7"DEF|
+P:B
+"G"G3 G3-|G2e d2B|"Am"A3-A3|E3 A2G|"D7"F2d ^c2d|e2d c2A|"G"B3-B3-|"G"B3 "D7"DEF|
+"G"G3 G3-|G2e d2B|"Am"A3-A3|E3 A2G|"D7"F2d ^c2d|e2d c2A|"G"G3-G3-|G3||
+
+X:141
+T:Marche du Verner
+T:Tune
+K:G
+M:6/8
+L:1/8
+P:A
+"D7"d3|:"G"B2B B2B|BGG GFE|"G"D2D D2D|DGG GFG|
+"D7"F2F F2F|Fcc cBA|1 "G"B2B B2B|"G"BDE "D7"FED:|2 "G"GFG "D7"BdB|"G"G3 g3||
+P:B
+|:"D7"fed fed|fed cBA|"G"GFG BGB|d3 g2g|"D7"fed fed|
+fed cBA|1 "G"GFG "D7"BdB|"G"G3 g3:|2 "G"GFG "D7"BdB|"G"GDE "D7"FED||
+T:Harmony
+P:A
+"G"B3 A3|G3 F3|"G"D3 C3|B,3 C3|"D"D3 E3|\
+F3 c3|1 "G"B3 A3|"G"G3 "D7"A3:|2 "G"B3 "D7"A3|"G"G6||
+P:B
+|:"D7"D3 D3|E3 F3|"G"G3 F3|E3 C3|"D7"D3 D3|\
+E3 F3|1 "G"G3 F3|G3 C3:|2 "G"G3 "D7"D3|"G"G3 "D7"D3||
+
+
+

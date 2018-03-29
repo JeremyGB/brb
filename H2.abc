@@ -1,0 +1,49 @@
+% Big Round Band: Set H2
+
+%%partsfont * * box
+%%partsspace -5
+%%leftmargin 1.50cm
+%%staffwidth 18.00cm
+%%topspace 0cm
+%%botmargin 0.40cm
+
+%%textfont * 20
+%%text H2 (2.0)
+%%textfont * 12
+
+
+
+X:810
+T:Eileen Og
+K:Am
+M:2/2
+L:1/8
+P:A
+"Am"A2A>B c2c>d|e>fe>d c>AA2|"G"G2G>A B2B>c|d>ed>c B>GG2|
+"Am"A2A>B c2c>d|e>fe>d c>Ac>d|"Em"e2e>f "E7"e>dc>B|"Am"c2"Em"A2 "Am"A4:|
+P:B
+|:"F"a4 "G"a4|"C"g>ec>d e4|"Em"e>BB>B B2d2|"Am"c>Bc>d e4|
+"F"a4 "G"a4|"C"g>ec>d e4|"Em"e>de>f "E7"e>dc>B|"Am"c2"Em"A2 "Am"A4:|
+
+X:811
+T:Puddleglum's Misery
+T:Tune
+C:Puddleglum's Misery - composed by John Kirkpatrick - World Copyright © Squeezer Music.
+C:www.johnkirkpatrick.co.uk
+K:Am
+M:2/2
+L:1/8
+P:A
+"E7"E2e2 _e2d2|"Am"c>BA>B c2B>A|"E7"^G>EG>B e>BG>E|"Am"A>EA>c e>cA>c|
+"E7"E2e2 _e2d2|"Am"c>BA>B c2B>A|"E7"^G>EG>B e>dc>B|"Am"A2A2 A4:|
+P:B
+|:"G"G2g2 ^f2=f2|"C"e>dc>d e2d>c|"G"B>GB>d g>dB>G|"C"c>Bc>d e>dc>A|
+"G"G2g2 ^f2=f2|"C"e>dc>d e4|"E7"(3EFE ^D>E e>dc>B|"Am"A2A2 A4:|
+T:Harmony
+P:A
+"E7"E2E2 ^F2^G3/2F//G//|"Am".A2z>B c2B>A|"E7".^G2z>A B2A>G|"Am".A2z>B c2B>A|
+"E7"E2E2 ^F2^G3/2F//G//|"Am".A2z>B c2B>A|"E7".^G2z>A B2A>G|"Am".A2.c2 A4:|
+P:B
+|:"G"G2G2 A2B3/2A//B//|"C".c2z>d e2d>c|"G".B2z>c d2c>B|"C".c2z>d e2d>c|
+"G"G2G2 A2B3/2A//B//|"C".c2z>d e2d>c|"E7".B2z>c d2c>B|"Am".A2.c2 A4:|
+

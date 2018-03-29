@@ -1,0 +1,58 @@
+% Big Round Band: Set S3
+
+%%partsfont * * box
+%%partsspace -5
+%%leftmargin 1.50cm
+%%staffwidth 18.00cm
+%%topspace 0cm
+%%botmargin 0.40cm
+
+%%textfont * 20
+%%text S3 (1.1)
+%%textfont * 12
+
+
+
+X:1020
+T:Bourree 1
+T:Tune
+C:Andrew Swaine
+M:2/4
+L:1/8
+K:F
+P:A
+"Dm"d2 dc|A2 zA|"Am/d(D9)"d>c de|f2 e2|\
+"Gm"d2 dc|"Gm/e"A2 zB|"A7"A>G FE|"Dm"D2 z2:|
+P:B
+|:"Gm"B>A GB|"A7"A>G FE|"Dm"D>E F/2E/2D|"D7/f#"A2 zA|\
+"Gm"B>A GB|"A7"A>G FE|1"Dm".D2 A2|A2 A2:|2"Dm".D2 d2|d2 d2:|
+T:Harmony
+P:A
+"Dm"D2 zD|D2 zD|"D9"D2 E2|F2 ^F2|\
+"Gm"G2 zG|"Gm/e"E2 zE|"A7"A>G FE|"Dm"D2 z2:|
+P:B
+|:"Gm"G>F ED|"A7"^C>D EC|"Dm"D>^C DE|"D7/f#"^F2 zF|\
+"Gm"G>F ED|"A7"^C>D EC|"Dm".D2 z2|z4||
+
+X:1021
+T:Bourree 2
+T:Tune
+C:Andrew Swaine
+M:2/4
+L:1/8
+K:C
+P:A
+"Am"e>d ce|"Em"d>c Bd|"Am"c>d cB|A4|\
+"D"A>B c/2B/2A|"G"Bc d2|"Bm7"d>c d^d|"E7"e4:|
+P:B
+|:"Dm"f>e df|"E7"^ge- ed|"Am"c>B cd|"Em7"e4|\
+"F"A>B ce|"G"d>c Bd|"Am"cA AG|1Ae ee:|2A4||
+T:Harmony
+P:A
+"Am".A2 .A2|"Em"(3G2F2E2|"Am"^D2 E2|A4|\
+"D"D>E ^FD|"G"G2 zG|"Bm7"A2 ^A2|1"E7"B2 ^G2:|2"E7"B2 e2||
+P:B
+|:"Dm"d>c BA|"E7"^G2 zG|"Am"A>G FE|"Em7"E2 zE|\
+"F"D>E FA|"G"G>A Bd|"Am".c2 .B2|A4:|
+
+

@@ -1,0 +1,37 @@
+% Big Round Band: Set J8
+
+%%partsfont * * box
+%%partsspace -5
+%%leftmargin 1.50cm
+%%staffwidth 18.00cm
+%%topspace 0cm
+%%botmargin 0.40cm
+
+%%textfont * 20
+%%text J8 (1.1)
+%%textfont * 12
+
+
+
+X:170
+T:The Installation
+M:6/8
+L:1/8
+K:G
+P:A
+"D7"BAB|"G"G2d d2e|"G/b"d3 "C"cdc|"G"B2B "D"ABA|"G"G2D "D"BAB|\
+"Em"G2d "D/f#"d2e|"G"d3 gag|"D"f2f "A7"efe|"D"d3:|
+P:B
+|:"D"d2d|"G"ded "Em"c2B|"Am"c2A "D7"c2c|"G"Bcd "Am"c2B|"D7"A3 "G"d2d|\
+"C"e2e "D"fga|"G"g2G "C"cdc|"G"B2B "D7"ABA|"G"G3:|
+P:C
+K:Gm
+|:"D7"BAG|"Gm"d2e "D7"d2c|"Gm"B2A BAG|"Cm"^F2G c2B|"D"A3 "Gm"BAB|\
+"Cm"c2e "F7"d2c|"Bb"B2F fed|"Eb"gfe "F7"d2c|"Bb"B3:|
+P:D
+|:dcd|"Cm"e2d "D7"c2d|"Gm"B2A Bcd|"Cm"c2B A2G|"D"^F3 "Gm"gab|\
+"D"a2^f fga|"Gm"g3 dcd|"Cm"edc "D7"B2A|"Gm"G3:|
+
+
+
+

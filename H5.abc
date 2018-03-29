@@ -1,0 +1,44 @@
+% Big Round Band: Set H5
+
+%%partsfont * * box
+%%partsspace -5
+%%leftmargin 1.50cm
+%%staffwidth 18.00cm
+%%topspace 0cm
+%%botmargin 0.40cm
+
+%%textfont * 20
+%%text H5 (1.0)
+%%textfont * 12
+
+
+
+X:840
+T:Ganivelle
+C:Frederic Paris
+M:2/2
+L:1/8
+K:G
+P:A
+cBA|:"G"B2Bc "D"A2GA|"G"B2G2 G2AB|"C"c2cd cBAG|"D"A6 GA|
+"G"B2Bc "D"A2GA|"G"B2G2 G2AB|"C"cB cd "(Am7)"ed cB|1"D7"A4- AcBA:|2"D7"A4- ABcd||
+P:B
+"C"e2ed "D"c2Bc|"G"d2G2 GB cd|"C"e2ed "D"c2Bc|"G"d2-de "Bm7"dG Bd|
+"C"e2ed "D"c2Bc|"G"d2G2 G2AB|"C"c2-cd "(Am7)"cB AG|1"D"A4- ABcd:|2"D7"A4- AcBA||
+T:Harmony 1
+P:A
+cBA|"G"B2Bc "D"AB/A/ GA|"G".B2c2 dG Bd|"C"g2-.gf ef ed|"D"d4- .dcBA|
+"G"B2.Bc "D"AB/A/ GA|"G".B2c2 dG Bd|"C"ec eg "(Am7)"ag fe|1"D7"d2-de dc BA:|2"D7"db ba gf ed||
+P:B
+"C"e2 eg "D"fg/f/ ef|"G"g2 d2 d3d|"C"e2 eg "D"fdfa|"G"gf ed "Bm7"B4|
+"C"e2 eg "D"fg/f/ ef|"G"g2 gf gf ed|"C"ec eg "(Am7)"ag fe|1"D7"db ba gf ed:|2"D7"d2-de dc BA||
+T:Harmony 2
+P:A
+B4 A4|G8|c6 B2|A8|B4 A4|G8|c6 e2|d8:|
+P:B
+|:c2ce d2A2|B2BA G2AB|c2ce d2A2|AB BA BB AB|
+cA ce d2A2|B2BA G2AB|c2cB A2G2|D8:|
+
+
+
+

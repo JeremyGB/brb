@@ -1,0 +1,53 @@
+% Big Round Band: Set H6
+
+%%partsfont * * box
+%%partsspace -5
+%%leftmargin 1.50cm
+%%staffwidth 18.00cm
+%%topspace 0cm
+%%botmargin 0.40cm
+
+%%textfont * 20
+%%text H6 (2.0)
+%%textfont * 12
+
+X:850
+T:Time Will End
+T:Tune
+K:G
+M:2/2
+L:1/8
+P:A
+"G"G2 g>f "C"e3e|"C"e>d B>d "D"A2 G>A|"G"B>A G>F "Em"E>D E>F|"G"G>G "D"A>B A4|
+"G"G2 g>f "C"e3e|"C"e>d B>d "D"A2 G>A|"G"B>A G>F "Em"E>D E>F|"G"G>B "D"A>F "G"G2 G>A:|
+P:B
+|:"G"B>A G>F "Em"E2 E>D|"C"E2 E>D "D"E>F G>A|"G"B>A G>F "Em"E3E-|"Em"E>F "G"G>B "A"A4|
+"Am"A>B "G/b"A>G "C"E2 E>D|"Em"E2 E>D "D"E>F G>A|"G"G2 g>f "C"(3efg d>c|"D"B>d B>A "G"G4:|
+T:Harmony 1 / Harmony 2
+P:A
+(3[Gd][Be][cf]|"G"[dg]>[Bd]- [Bd]>[ce]- "C"[c4e4]-|\
+"C"[ce]>[Bd]- [Bd]>[ce]- "D"[ce]>[Bd] [Ac]>[GB]|\
+"G"z>A B>c "Em"z>d e>d|"G"z>[dg] z>[df]- "D"[df]>[ce] (3[Bd][ce][eg]|
+"G"[dg]>[Bd]- [Bd]>[ce]- "C"[c4e4]-|\
+"C"[ce]>[Bd]- [Bd]>[ce]- "D"[ce]>[Bd] [Ac]>[GB]|\
+"G"z>A B>c "Em"z>d e>d|"G"z>g "D"(3fga "G"g2:|
+P:B
+|:(3[Gd][Be][cf]|"G"[dg]>[fa]- [fa]>[gb]- "Em"[g2b2] [gb]>[fa]|\
+"C"[g2b] [gb]>[fa] "D"[gb]>[fa] [eg]>[df]|\
+"G"[dg]>[fa]- [fa]>[gb]- "Em"[g2b2] [gb]>[fa]|\
+"Em"[gb]>[fa] "G"[gb]>[ac'] "Am" [e2a2]- [ea]>[ea]-|
+"Am"[ea]>[db]- "G/b"[db]>[cc']- "C"[c2c'2] [cc']>[ea]|\
+"Em"[g2b2] [gb]>[eg] "D" [fa]>[eg] (3[df][eg][fa]|\
+"G"[dg]>[Bd]- [Bd]>[ce]- "C"[c4e4]|\
+"D"[df]>[eg] (3[fa][eg][df] "G"[d2g2]:|
+T:Bass line
+P:A
+D2-|"G".G2 .B2 "C"c2>>B2|"C".c2 .e2 "D"d2>>d2|\
+"G".G2 z>A "Em".B2 z>A|"G".G2 .B2 "D"d>c B>A|
+|"G".G2 .B2 "C"c2>>B2|"C".c2 .e2 "D"d2>>d2|\
+"G".G2 z>A "Em".B2 z>A|"G".G2 "D".F2 "G".G2:|
+P:B
+|:D2-|"G".G2 .F2 "Em"E2>>D2|"C".C2 z>C "D"D>D E>F|\
+"G".G2 .F2 "Em"E2>>D2|"Em".E2 "G".G2 "Am"A2>>G2|
+"Am".A2 "G/b".B2 "C"c2>>c2|"Em".B2 z>G "D".A2 z>F|\
+"G".G2 z>B "C".c2 z>A|"D"d>c B>A "G"G2:|
