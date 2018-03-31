@@ -1,0 +1,22 @@
+% Big Round Band: Set S10
+
+%%textfont * 20
+%%text S10 (1.0) p1
+%%textfont * 12
+
+
+X:1090
+T:Swedish Masquerade
+M:4/4
+L:1/8
+K:G
+P:A
+(3DB,D|"G"G2G>GG2"D7"A>c|"G"B2B>BB2"C"ce|"G"edBd "D7"dcAF|"G"G2G>G GD"D"B,D|"G"G2G>GG2"D7"A>c|"G"B2B>BB2"C"ce|"G"edBd dcAF|"G"G2G>GGz2||
+M:3/4
+L:1/4
+P:B
+|:B/2c/2|"G"dBg/2e/2|dBe/2d/2|"D7"cAB/2A/2|"G"G/2F/2G/2A/2B/2c/2|dBg/2e/2|dBe/2d/2|"D7"cAF|"G"G2:|
+P:C
+L:1/8
+M:2/4
+|:d2|"G"dBge|"G"dBGB|"D7"dcAc|"G"edBd|dBge|dBGB|"D7"|dcAF|"G"G2:|
