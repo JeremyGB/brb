@@ -1,18 +1,9 @@
 % Big Round Band: Set 48J2
 
-%%partsfont * *
-%%partsbox 1
-%%partsspace -5
-%%leftmargin 1.50cm
-%%staffwidth 18.00cm
-%%topspace 0cm
-%%botmargin 0.40cm
-
 %%textfont * 20
 %%text 48J2 (2.0)
 %%textfont * 12
-
-
+%%flatbeams 0
 
 X:210
 T:When Daylight Shines

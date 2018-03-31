@@ -1,13 +1,5 @@
 % Big Round Band: Set J1
 
-%%partsfont * *
-%%partsbox 1
-%%partsspace -5
-%%leftmargin 1.50cm
-%%staffwidth 18.00cm
-%%topspace 0cm
-%%botmargin 0.40cm
-
 %%textfont * 20
 %%text J1 (1.0) p1
 %%textfont * 12

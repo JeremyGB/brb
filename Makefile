@@ -14,17 +14,51 @@ SJ1.abc \
 W1.abc W2.abc W3.abc
 
 PLAIN_PDFS = $(patsubst %.abc,pdf/%.pdf,$(SOURCES))
+BFLAT_PDFS = $(patsubst %.abc,pdf/%_Bb.pdf,$(SOURCES))
+EFLAT_PDFS = $(patsubst %.abc,pdf/%_Eb.pdf,$(SOURCES))
+EFLATHI_PDFS = $(patsubst %.abc,pdf/%_EbHi.pdf,$(SOURCES))
 
 %.show:
 	@echo $($*)
 
-build/%.ps: %.abc
-	abcm2ps -O $@ $<
 
 pdf/%.pdf: build/%.ps
 	ps2pdf $< $@
 
-all: $(PLAIN_PDFS)
+build/%.ps: %.abc
+	abcm2ps -F page.fmt -O $@ $<
+
+build/%_Bb.ps: build/%_Bb.abc
+	abcm2ps -F page.fmt -O $@ $<
+
+build/%_Eb.ps: build/%_Eb.abc
+	abcm2ps -F page.fmt -O $@ $<
+
+build/%_EbHi.ps: build/%_EbHi.abc
+	abcm2ps -F page.fmt -O $@ $<
+
+build/%_Bass.ps: build/%_Eb.abc
+	abcm2ps -F page.fmt -O $@ $<
+
+build/%_Bb.abc: %.abc
+	echo '%%transpose 2' > $@
+	sed 's/^\(\%\%text .*\)\((.*)\)/\1[Bb] \2/g' < $< >>$@
+
+build/%_Eb.abc: %.abc
+	echo '%%transpose -3' > $@
+	sed 's/^\(\%\%text .*\)\((.*)\)/\1[Eb] \2/g' < $< >>$@
+
+build/%_EbHi.abc: %.abc
+	echo '%%transpose 9' > $@
+	sed 's/^\(\%\%text .*\)\((.*)\)/\1[EbHi] \2/g' < $< >>$@
+
+#build/%_Bass.abc: %.abc
+#	echo '%%transpose 2' > $@
+#	sed 's/^\(\%\%text .*\)\((.*)\)/\1[Bb] \2/g' < $< >>$@
+
+
+
+all: $(PLAIN_PDFS) $(BFLAT_PDFS) $(EFLAT_PDFS) $(EFLATHI_PDFS)
 
 .PHONY: all
 

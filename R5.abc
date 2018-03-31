@@ -1,17 +1,5 @@
 % Big Round Band: Set R5
 
-%%pageheight 29.7cm
-%%pagewidth 21.0cm
-
-%%partsfont * *
-%%partsbox 1
-%%partsspace -5
-%%leftmargin 1.50cm
-%%staffwidth 18.00cm
-%%topspace 0cm
-%%botmargin 0.40cm
-
-
 %%textfont * 20
 %%text R5 (1.0) p1
 %%textfont * 12
